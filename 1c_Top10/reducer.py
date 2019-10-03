@@ -2,24 +2,26 @@ import sys
 from collections import OrderedDict
 from operator import itemgetter
 
-wordcount = {}
+# counter for how many sentences
+counter = 0
 
 for line in sys.stdin:
 
-    word, count = line.split('\t', 1)
-
+    # parse the input we got from mapper.py
+    # remove leading and trailing whitespace
+    # make a list of the strings
+    word, count = line.strip().split('\t', 1)
     try:
+        # convert count (currently a string) to int
         count = int(count)
     except ValueError:
+        # count was not a number
+        # ignore/discard this line
         continue
 
-    try:
-        wordcount[word] = wordcount[word]+count
-    except:
-        wordcount[word] = count
+    # add to the counter for every sentence you get from mapper.py
+    # you can do this because the mapper only prints sentences with
+    # over 10 words in the title
+    counter = counter + count
 
-wordcount = OrderedDict(
-    sorted(wordcount.items(), key=itemgetter(1), reverse=True))
-
-for word in wordcount.keys():
-    print('%s\t%s' % (word, ""))
+print('{}'.format(counter))
