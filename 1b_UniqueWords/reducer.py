@@ -2,24 +2,22 @@ import sys
 from collections import OrderedDict
 from operator import itemgetter
 
-wordcount = {}
+uniqueWords = []
 
+# input comes from STDIN
 for line in sys.stdin:
 
-    word, count = line.split('\t', 1)
+    # remove leading and trailing whitespace
+    # parse the input we got from mapper.py
+    word = line.strip().split()
 
-    try:
-        count = int(count)
-    except ValueError:
-        continue
+    # if the word does not already exist in list, add it
+    if word not in uniqueWords:
+        uniqueWords.append(word)
 
-    try:
-        wordcount[word] = wordcount[word]+count
-    except:
-        wordcount[word] = count
+# remove brackets around items in list
+newList = [i[0] for i in uniqueWords]
 
-wordcount = OrderedDict(
-    sorted(wordcount.items(), key=itemgetter(1), reverse=True))
-
-for word in wordcount.keys():
-    print('%s\t%s' % (word, ""))
+# print list of unique words
+for word in newList:
+    print('%s\t' % word)

@@ -32,6 +32,6 @@ for child in root:
         # make a list of strings
         words = body.strip().split()
 
-        # print the words you have left after cleaning words
+        # print the words you have left after extracting and cleaning the words
         for word in words:
             print('%s\t%s' % (word.lower(), "1"))
