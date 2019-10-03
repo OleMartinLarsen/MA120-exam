@@ -1,0 +1,2 @@
+hadoop jar $HADOOP_HOME/share/hadoop/tools/lip/hadopp-streaming-2.7.3.jar \
+-input 
