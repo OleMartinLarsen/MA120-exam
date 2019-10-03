@@ -2,8 +2,13 @@ import sys
 from lxml import etree
 import re
 
+
 sys.stdin = sys.stdin.detach()
+
+# parse the data from xml document
 tree = etree.parse(sys.stdin)
+
+# get root node of document
 root = tree.getroot()
 
 
@@ -14,12 +19,13 @@ def strip_non_ascii(string):
 
 
 for child in root:
+    # sorts rows on posttypeid
     if child.get("PostTypeId") == "1":
         # extracts the title attribute
         body = child.get("Title")
-        # remove tags
+        # removes tags
         body = re.sub("<.*?>", '', body)
-        # remove punctation
+        # removes punctation
         body = re.sub(r'[^\w\s]', '', body)
         # removes words with numbers
         body = re.sub(r'\w*\d\w*', '', body)
@@ -28,6 +34,6 @@ for child in root:
         # make a list of strings
         words = body.strip().split()
 
-        # print the words you have left after extracting and cleaning the words
-        for word in words:
-            print('{}'.format(word.lower()))
+        # print titles which have more then 10 words in the title
+        if len(words) > 10:
+            print('{}\t{}'.format(words, "1"))

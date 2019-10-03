@@ -20,13 +20,15 @@ def strip_non_ascii(string):
 
 for child in root:
     # sorts rows on posttypeid
-    if child.get("PostTypeId") == "1":
+    if child.get("PostTypeId") == '1':
         # extracts the body attribute
         body = child.get("Body")
         # removes tags
         body = re.sub("<.*?>", '', body)
         # removes punctation
         body = re.sub(r'[^\w\s]', '', body)
+        # removes words with numbers
+        body = re.sub(r'\w*\d\w*', '', body)
         body = strip_non_ascii(body)
         # remove leading and trailing whitespace
         # make a list of strings
