@@ -34,4 +34,4 @@ for child in root:
 
         # print the words you have left after extracting and cleaning the words
         for word in words:
-            print('%s\t%s' % (word.lower(), "1"))
+            print('{}\t{}'.format(word.lower(), "1"))

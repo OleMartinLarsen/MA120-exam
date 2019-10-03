@@ -33,4 +33,4 @@ wordcount = OrderedDict(
 
 # printing the wordcount
 for word in wordcount.keys():
-    print('%s\t%s' % (word, wordcount[word]))
+    print('{}\t{}'.format(word, wordcount[word]))
