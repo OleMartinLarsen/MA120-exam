@@ -28,4 +28,4 @@ for child in root:
 
         # print the words you have left after extracting and cleaning the words
         for word in words:
-            print('%s' % word.lower())
+            print('{}'.format(word.lower()))

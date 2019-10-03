@@ -7,8 +7,9 @@ uniqueWords = []
 # input comes from STDIN
 for line in sys.stdin:
 
-    # remove leading and trailing whitespace
     # parse the input we got from mapper.py
+    # remove leading and trailing whitespace
+    # make a list of the strings
     word = line.strip().split()
 
     # if the word does not already exist in list, add it
@@ -20,4 +21,4 @@ newList = [i[0] for i in uniqueWords]
 
 # print list of unique words
 for word in newList:
-    print('%s\t' % word)
+    print('{}\t'.format(word))
