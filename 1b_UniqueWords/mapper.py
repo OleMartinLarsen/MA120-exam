@@ -15,7 +15,7 @@ def strip_non_ascii(string):
 
 for child in root:
     if child.get("PostTypeId") == "1":
-        body = child.get("Body")
+        body = child.get("Title")
         body = re.sub("<.*?>", '', body)
         body = re.sub(r'[^\w\s]', '', body)
         body = strip_non_ascii(body)

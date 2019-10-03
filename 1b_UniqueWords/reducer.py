@@ -22,4 +22,4 @@ wordcount = OrderedDict(
     sorted(wordcount.items(), key=itemgetter(1), reverse=True))
 
 for word in wordcount.keys():
-    print('%s\t%s' % (word, wordcount[word]))
+    print('%s\t%s' % (word, ""))
