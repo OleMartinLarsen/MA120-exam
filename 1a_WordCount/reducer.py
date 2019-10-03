@@ -1,11 +1,11 @@
 import sys
- 
-word2count = {}
- 
+from collections import OrderedDict
+from operator import itemgetter
+
+wordcount = {}
+
 for line in sys.stdin:
 
-    line = line.strip()
- 
     word, count = line.split('\t', 1)
 
     try:
@@ -14,11 +14,12 @@ for line in sys.stdin:
         continue
 
     try:
-        word2count[word] = word2count[word]+count
+        wordcount[word] = wordcount[word]+count
     except:
-        word2count[word] = count
- 
-# write the tuples to stdout
-# Note: they are unsorted
-for word in word2count.keys():
-    print('%s\t%s'% ( word, word2count[word] ))
+        wordcount[word] = count
+
+wordcount = OrderedDict(
+    sorted(wordcount.items(), key=itemgetter(1), reverse=True))
+
+for word in wordcount.keys():
+    print('%s\t%s' % (word, wordcount[word]))
