@@ -27,7 +27,7 @@ for child in root:
     '''sort on posttype id and extracts title attribute'''
     if child.get('PostTypeId') == '1':
         title = child.get("Title")
-        clean_text(title)
+        title = clean_text(title)
 
         '''print titles which have more then 10 words in the title'''
         if len(title) > 10:
