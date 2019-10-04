@@ -14,6 +14,7 @@ root = tree.getroot()
 
 
 def remove_stopwords(text):
+    '''removes stopwords from text'''
     no_stopwords = [word for word in text
                     if word not in stopwords]
     return no_stopwords

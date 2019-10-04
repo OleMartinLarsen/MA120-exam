@@ -8,26 +8,25 @@ root = tree.getroot()
 
 
 def strip_non_ascii(string):
-    # Returns the string without non ASCII characters
+    '''function for stripping ascii characters from text'''
     stripped = (c for c in string if 0 < ord(c) < 127)
     return ''.join(stripped)
 
 
-for child in root:
-    if child.get("PostTypeId") == "1":
-        # extracts the title attribute
-        body = child.get("Title")
-        # remove tags
-        body = re.sub("<.*?>", '', body)
-        # remove punctation
-        body = re.sub(r'[^\w\s]', '', body)
-        # removes words with numbers
-        body = re.sub(r'\w*\d\w*', '', body)
-        body = strip_non_ascii(body)
-        # remove leading and trailing whitespace
-        # make a list of strings
-        words = body.strip().split()
+def clean_text(text):
+    '''function for cleaning text'''
+    text = re.sub("<.*?>", '', text)
+    text = re.sub(r'[^\w\s]', '', text)
+    text = strip_non_ascii(text)
+    text = text.strip().split()
+    return text
 
-        # print the words you have left after extracting and cleaning the words
-        for word in words:
+
+for child in root:
+    '''sort on posttype id and extracts title attribute'''
+    if child.get('PostTypeId') == '1':
+        title = child.get("Title")
+        title = clean_text(title)
+
+        for word in title:
             print('{}'.format(word.lower()))
