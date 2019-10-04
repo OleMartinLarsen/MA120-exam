@@ -19,7 +19,7 @@ def clean_text(text):
     text = re.sub("<.*?>", '', text)
     text = re.sub(r'[^\w\s]', '', text)
     text = strip_non_ascii(text)
-    words = body.strip().split()
+    text = text.strip().split()
     return text
 
 
