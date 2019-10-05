@@ -9,7 +9,7 @@ root = tree.getroot()
 
 
 def strip_non_ascii(string):
-    '''function for stripping ascii characters from text'''
+    '''function for stripping non ascii characters from text'''
     stripped = (c for c in string if 0 < ord(c) < 127)
     return ''.join(stripped)
 
