@@ -7,7 +7,7 @@ tree = etree.parse(sys.stdin)
 root = tree.getroot()
 
 for child in root:
-    '''extracts id attribute from user'''
+    '''extracts displayname and reputation attribute from user'''
     username = child.get("DisplayName")
     reputation = child.get("Reputation")
 
