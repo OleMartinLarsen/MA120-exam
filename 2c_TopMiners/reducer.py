@@ -6,7 +6,7 @@ from operator import itemgetter
 reputations = {}
 
 
-def sort_miners(data):
+def top10(data):
     '''sorting miners and get top 10 based on reputation'''
     top10 = OrderedDict(
         sorted(data.items(), key=itemgetter(1), reverse=True)[:10])
@@ -27,7 +27,7 @@ for line in sys.stdin:
     reputations[username] = reputation
 
 
-top10 = sort_miners(reputations)
+top10 = top10(reputations)
 
 for user in top10.keys():
     print('{}\t{}'.format(user, reputations[user]))
