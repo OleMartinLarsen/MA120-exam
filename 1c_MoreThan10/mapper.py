@@ -8,17 +8,10 @@ tree = etree.parse(sys.stdin)
 root = tree.getroot()
 
 
-def strip_non_ascii(string):
-    '''function for stripping non ascii characters from text'''
-    stripped = (c for c in string if 0 < ord(c) < 127)
-    return ''.join(stripped)
-
-
 def clean_text(text):
     '''function for cleaning text'''
     text = re.sub("<.*?>", '', text)
     text = re.sub(r'[^\w\s]', '', text)
-    text = strip_non_ascii(text)
     text = text.strip().split()
     return text
 

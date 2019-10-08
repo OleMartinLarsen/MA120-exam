@@ -1,7 +1,6 @@
 import sys
 import re
 from lxml import etree
-from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
 '''stopwords imported from natural language toolkit'''
@@ -29,7 +28,6 @@ def strip_non_ascii(text):
 def clean_text(text):
     '''function for cleaning text'''
     text = re.sub(r'[^\w\s]', '', text.lower())
-    text = strip_non_ascii(text)
     text = text.strip().split()
     text = remove_stopwords(text)
     return text
