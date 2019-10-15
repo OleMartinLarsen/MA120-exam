@@ -1,7 +1,8 @@
+from nltk.corpus import stopwords
 import sys
 import re
+import nltk
 from lxml import etree
-from nltk.corpus import stopwords
 
 '''stopwords imported from natural language toolkit'''
 stopwords = set(stopwords.words('english'))
@@ -19,12 +20,6 @@ def remove_stopwords(text):
     return no_stopwords
 
 
-def strip_non_ascii(text):
-    '''function for stripping non ascii characters from text'''
-    stripped = (c for c in text if 0 < ord(c) < 127)
-    return ''.join(stripped)
-
-
 def clean_text(text):
     '''function for cleaning text'''
     text = re.sub(r'[^\w\s]', '', text.lower())
@@ -38,4 +33,4 @@ for child in root:
     if child.get('PostTypeId') == '1':
         title = child.get('Title')
         title = clean_text(title)
-        print('{}'.format(title))
+        print(' '.join(title))

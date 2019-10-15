@@ -10,8 +10,6 @@ from collections import Counter
 tree = etree.parse(sys.stdin)
 root = tree.getroot()
 
-text = "to be or not to be"
-
 
 def clean_text(text):
     '''function for cleaning text'''

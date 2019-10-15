@@ -2,6 +2,8 @@ import sys
 from lxml import etree
 import re
 
+term = "useless"
+
 '''parse the data from xml document'''
 sys.stdin = sys.stdin.detach()
 tree = etree.parse(sys.stdin)
@@ -22,5 +24,5 @@ for child in root:
     if child.get("PostTypeId") == '1':
         body = child.get("Body")
         body = clean_text(body)
-        for word in body:
-            print('{}\t{}'.format(word, "1"))
+        if term in body:
+            print('{}'.format("1"))

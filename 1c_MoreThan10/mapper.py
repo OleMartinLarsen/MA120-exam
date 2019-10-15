@@ -24,4 +24,5 @@ for child in root:
 
         '''print titles which have more then 10 words in the title'''
         if len(title) > 10:
+            # TODO: Write only one value with null
             print('{}\t{}'.format(title, "1"))

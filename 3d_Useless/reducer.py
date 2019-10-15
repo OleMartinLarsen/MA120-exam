@@ -1,9 +1,8 @@
 import sys
 from collections import OrderedDict
-from collections import Counter
 from operator import itemgetter
 
-counter = 0
+useless_count = 0
 
 for line in sys.stdin:
 
@@ -16,7 +15,6 @@ for line in sys.stdin:
         '''count was not a number'''
         continue
 
-    counter = counter + count
+    useless_count = useless_count + count
 
-
-print('{}'.format(counter))
+print('{}'.format(useless_count))

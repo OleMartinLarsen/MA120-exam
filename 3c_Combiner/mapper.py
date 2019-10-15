@@ -22,5 +22,6 @@ for child in root:
     if child.get("PostTypeId") == '1':
         body = child.get("Body")
         body = clean_text(body)
+
         for word in body:
             print('{}\t{}'.format(word, "1"))
