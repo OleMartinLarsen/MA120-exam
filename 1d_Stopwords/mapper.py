@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from nltk.corpus import stopwords
 import sys
 import re

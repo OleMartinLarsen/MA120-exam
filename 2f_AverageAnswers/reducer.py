@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 from statistics import mean
 from collections import OrderedDict

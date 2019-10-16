@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 from lxml import etree
 import re

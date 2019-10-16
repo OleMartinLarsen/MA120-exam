@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 from collections import OrderedDict
 from collections import Counter

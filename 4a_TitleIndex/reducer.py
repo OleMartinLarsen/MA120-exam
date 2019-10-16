@@ -1,6 +1,7 @@
-import sys
-from collections import defaultdict
+#!/usr/bin/python3
 from more_itertools import unique_everseen
+from collections import defaultdict
+import sys
 
 word_indexes = defaultdict(list)
 
