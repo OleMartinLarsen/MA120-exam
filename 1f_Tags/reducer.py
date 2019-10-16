@@ -1,19 +1,19 @@
 #!/usr/bin/python3
 import sys
 
-uniqueWords = []
+unique_tags = []
 
 for line in sys.stdin:
 
     '''parse the input we got from mapper.py'''
-    word = line.strip().split()
+    tag = line.strip().split()
 
-    '''if the word does not already exist in list, add it'''
-    if word not in uniqueWords:
-        uniqueWords.append(word)
+    '''if the tag does not already exist in list, add it'''
+    if tag not in unique_tags:
+        unique_tags.append(tag)
 
 '''remove brackets around words'''
-newList = [i[0] for i in uniqueWords]
+new_list = [i[0] for i in unique_tags]
 
-for word in newList:
-    print('{}\t'.format(word))
+for tag in new_list:
+    print('{}\t'.format(tag))
