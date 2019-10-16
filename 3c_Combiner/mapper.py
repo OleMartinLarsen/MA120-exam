@@ -1,6 +1,9 @@
 import sys
 from lxml import etree
 import re
+from collections import defaultdict
+
+wordcount = defaultdict(list)
 
 '''parse the data from xml document'''
 sys.stdin = sys.stdin.detach()
@@ -24,4 +27,7 @@ for child in root:
         body = clean_text(body)
 
         for word in body:
-            print('{}\t{}'.format(word, "1"))
+            wordcount[word].append(1)
+
+for word in wordcount:
+    print('{}\t{}'.format(word, sum(wordcount[word])))
