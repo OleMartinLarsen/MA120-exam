@@ -14,7 +14,48 @@ The dataset is formatted as a separate archive consisting of XML files. The arch
 	● Tags.xml
 	● Users.xml
 	● Votes.xml
+	
+# Table of contents
+- [Folder structure](#folder-structure)
+- [Setup](#setup)
+  * [Download](#download)
+  * [Docker](#docker)
+  * [pip](#pip)
+  * [lxml](#lxml)
+  * [NLTK](#nltk)
+  * [HDFS](#hdfs)
+  * [Encoding](#encoding)
+- [Usage](#usage)
+- [Tasks](#tasks)
+# Folder structure
 
+    .
+    ├── 1a_WordCount                # Folder for each task
+	    └── log                     # Log file, this shows how the output of the MapReduce job looks
+	    └── mapper.py		# Mapper file
+	    └── reducer.py		# Reducer file
+    ├── 1b_UniqueWords                 
+    ├── 1c_MoreThan10                  
+    ├── 1d_Stopwords                   
+    ├── 1e_PigTop10                    
+    ├── 1f_Tags
+    ├── 2a_Counting
+    ├── 2b_UniqueUsers
+    ├── 2c_TopMiners
+    ├── 2d_TopQuestions
+    ├── 2e_FavoriteQuestions
+    ├── 2f_AverageAnswers
+    ├── 2g_Countries
+    ├── 2h_Names
+    ├── 2i_Answers
+    ├── 3a_Bigram
+    ├── 3b_Trigram
+    ├── 3c_Combiner  
+    ├── 3d_Useless
+    ├── 4a_TitleIndex
+    ├── Dataset			# The dataset from Bitcoin Stack Exchange    
+    ├── .gitignore    
+    └── README.md
 # Setup
 This is how you setup the environment to run this project.
 
