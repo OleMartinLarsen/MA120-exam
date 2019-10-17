@@ -20,6 +20,7 @@ This is how you setup the environment to run this project.
 
 ## Download
 Download the project manually:
+
 ![enter image description here](https://lh3.googleusercontent.com/6BfFd_oH6d-G8_mKxdPdregNR3JsToxve12zEjim3RsY_o2BFvqChdObF7V6p7gbPfa2QUBuO8SV)
 
 Download the project with git clone:
