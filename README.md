@@ -100,6 +100,31 @@ Inside the folder `1e_PigTop10` we have a Pig script which makes a top 10 list o
 This is how you run the Pig script.
 1. Navigate inside the folder were the pig script is: `1e_PigTop10`
 2. Then you run this command to execute the Pig script: `pig top10.pig`
-
+# Tasks
+In this section we will go trough each task and explain how we solved them.
+## 1. Warmup
+### a. WordCount
+### b. Unique words
+### c. MoreThan10
+### d. Stopwords
+### e. Pig top 10
+### f. Tags
+## 2. Discover
+### a. Counting
+### b. Unique users
+### c. Top miners
+### d. Top questions
+### e. Favorite questions
+### f. Average answers
+### g. Countries
+### h. Names
+### i. Answers
+## 3. Numbers
+### a. Bigram
+### b. Trigram
+### c. Combiner
+### d. Useless
+## 4. Search engine
+### a. Title index
 
 
