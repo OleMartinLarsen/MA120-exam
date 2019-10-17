@@ -164,6 +164,7 @@ In this section we will go trough each task and explain how we solved them.
 ### a. Bigram
 ### b. Trigram
 ### c. Combiner
+A combiner is known as a «mini-reducer». It is called this because it performs Reducer-like actions on the data which the Mapper has acquired, before the data is actually sent to the Reducer. This can be done on different tasks, but in essence it’s done to summarize the data connected to each key. When we add a combiner in this particular instance, we «summarize» each finding of index numbers connected to each key, before they are sent to the reducer for the final «summarization» of values connected to each unique key. By doing this, it is transfered fewer records between the nodes over the network, and thus we avoid unnecessary network congestion.
 ### d. Useless
 ## 4. Search engine
 ### a. Title index
