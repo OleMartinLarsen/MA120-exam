@@ -29,5 +29,5 @@ for child in root:
         for word in body:
             wordcount[word].append(1)
 
-for word in wordcount:
+for word in wordcount.keys():
     print('{}\t{}'.format(word, sum(wordcount[word])))

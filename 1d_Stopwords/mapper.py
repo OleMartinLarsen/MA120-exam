@@ -34,4 +34,5 @@ for child in root:
     if child.get('PostTypeId') == '1':
         title = child.get('Title')
         title = clean_text(title)
-        print(' '.join(title))
+        for word in title:
+            print('{}\t{}'.format(word, "1"))
