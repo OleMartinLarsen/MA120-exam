@@ -143,6 +143,20 @@ This is how you run the Pig script.
 2. Then you run this command to execute the Pig script: `pig top10.pig`
 # Tasks
 In this section we will go trough each task and explain how we solved them.
+
+Firstly, it is worth mentioning that because of the similiraty of the datasets and their structure, there are certain elements that is appearant in each task. Among these are: 
+
+import sys
+- Used to import 
+
+from lxml import etree
+-
+
+import re
+- 
+
+
+
 ## 1. Warmup
 ### a. WordCount
 ### b. Unique words
