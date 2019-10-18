@@ -4,7 +4,6 @@ from lxml import etree
 import re
 
 '''parse the data from xml document'''
-sys.stdin = sys.stdin.detach()
 tree = etree.parse(sys.stdin)
 root = tree.getroot()
 

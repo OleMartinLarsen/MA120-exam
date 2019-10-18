@@ -9,7 +9,6 @@ from lxml import etree
 stopwords = set(stopwords.words('english'))
 
 '''parse the data from xml document'''
-sys.stdin = sys.stdin.detach()
 tree = etree.parse(sys.stdin)
 root = tree.getroot()
 
