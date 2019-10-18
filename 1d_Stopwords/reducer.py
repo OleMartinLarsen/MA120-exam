@@ -21,10 +21,5 @@ for line in sys.stdin:
     except:
         wordcount[word] = count
 
-
-'''sorting the wordcount by value the key has'''
-wordcount = OrderedDict(
-    sorted(wordcount.items(), key=itemgetter(1), reverse=True))
-
 for word in wordcount.keys():
     print('{}\t{}'.format(word, wordcount[word]))

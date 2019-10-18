@@ -1,13 +1,12 @@
 #!/usr/bin/python3
 import sys
 from collections import OrderedDict
-from collections import Counter
 from operator import itemgetter
 
 name_count = {}
 
 
-def top10(data):
+def calculate_top10(data):
     '''sorting names and get top 10 most used'''
     top10 = OrderedDict(
         sorted(data.items(), key=itemgetter(1), reverse=True)[:10])
@@ -31,7 +30,7 @@ for line in sys.stdin:
         name_count[name] = count
 
 
-top10 = top10(name_count)
+top10 = calculate_top10(name_count)
 
 for name in top10.keys():
     print('{}\t{}'.format(name, name_count[name]))

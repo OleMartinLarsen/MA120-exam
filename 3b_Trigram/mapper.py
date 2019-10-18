@@ -1,11 +1,10 @@
 #!/usr/bin/python3
 import sys
-from lxml import etree
 import re
 import nltk
+from lxml import etree
 from nltk.tokenize import word_tokenize
 from nltk.util import ngrams
-from collections import Counter
 
 '''parse the data from xml document'''
 tree = etree.parse(sys.stdin)
@@ -14,8 +13,7 @@ root = tree.getroot()
 
 def clean_text(text):
     '''function for cleaning text'''
-    text = re.sub("<.*?>", '', text.lower())
-    text = re.sub(r'[^\w\s]', '', text)
+    text = re.sub(r'[^\w\s]', '', text.lower())
     return text
 
 

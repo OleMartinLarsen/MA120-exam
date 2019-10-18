@@ -12,13 +12,10 @@ def sort_countries(data):
         sorted(data.items(), key=itemgetter(1), reverse=True))
     return sorted_countries
 
-
 for line in sys.stdin:
 
     '''parse the input we got from mapper.py'''
-    if ',' not in line:
-        continue
-    country, count = line.strip().split('\t', 1)
+    country, count = line.split('\t', 1)
 
     try:
         count = int(count)
@@ -31,9 +28,7 @@ for line in sys.stdin:
     except:
         country_count[country] = count
 
-
 country_count = sort_countries(country_count)
-
 
 for country in country_count.keys():
     print('{}\t{}'.format(country, country_count[country]))

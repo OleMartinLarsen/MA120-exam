@@ -7,7 +7,7 @@ from operator import itemgetter
 scores = {}
 
 
-def top10(data):
+def calculate_top10(data):
     '''sorting questions based on score and get top 10 questions'''
     top10 = OrderedDict(
         sorted(data.items(), key=itemgetter(1), reverse=True)[:10])
@@ -28,7 +28,7 @@ for line in sys.stdin:
     scores[question] = score
 
 
-top10 = top10(scores)
+top10 = calculate_top10(scores)
 
 for question in top10.keys():
     print('{}\t{}'.format(question, scores[question]))

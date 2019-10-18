@@ -5,6 +5,13 @@ from operator import itemgetter
 
 wordcount = {}
 
+
+def sort_words(data):
+    '''sorting the wordcount by value the key has'''
+    sorted_wordcount = OrderedDict(
+        sorted(data.items(), key=itemgetter(1), reverse=True))
+    return sorted_wordcount
+
 for line in sys.stdin:
 
     '''parse the input we got from mapper.py'''
@@ -21,10 +28,7 @@ for line in sys.stdin:
     except:
         wordcount[word] = count
 
-
-'''sorting the wordcount by value the key has'''
-wordcount = OrderedDict(
-    sorted(wordcount.items(), key=itemgetter(1), reverse=True))
+wordcount = sort_words(wordcount)
 
 for word in wordcount.keys():
     print('{}\t{}'.format(word, wordcount[word]))

@@ -5,6 +5,13 @@ from operator import itemgetter
 
 bigram_count = {}
 
+
+def sort_bigrams(data):
+    '''sorting the bigram_count by value the key has'''
+    sorted_bigram_count = OrderedDict(
+        sorted(data.items(), key=itemgetter(1), reverse=True))
+    return sorted_bigram_count
+
 for line in sys.stdin:
 
     '''parse the input we got from mapper.py'''
@@ -21,10 +28,7 @@ for line in sys.stdin:
     except:
         bigram_count[bigram] = count
 
-
-'''sorting the bigram_count by value the key has'''
-bigram_count = OrderedDict(
-    sorted(bigram_count.items(), key=itemgetter(1), reverse=True))
+bigram_count = sort_words(bigram_count)
 
 for bigram in bigram_count.keys():
     print('{}\t{}'.format(bigram, bigram_count[bigram]))

@@ -1,9 +1,5 @@
 #!/usr/bin/python3
 import sys
-from collections import OrderedDict
-from operator import itemgetter
-
-counter = 0
 
 for line in sys.stdin:
 

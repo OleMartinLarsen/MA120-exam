@@ -5,6 +5,13 @@ from operator import itemgetter
 
 trigram_count = {}
 
+
+def sort_trigrams(data):
+    '''sorting the trigram_count by value the key has'''
+    sorted_trigram_count = OrderedDict(
+        sorted(data.items(), key=itemgetter(1), reverse=True))
+    return sorted_trigram_count
+
 for line in sys.stdin:
 
     '''parse the input we got from mapper.py'''
@@ -22,9 +29,7 @@ for line in sys.stdin:
         trigram_count[trigram] = count
 
 
-'''sorting the trigram_count by value the key has'''
-trigram_count = OrderedDict(
-    sorted(trigram_count.items(), key=itemgetter(1), reverse=True))
+trigram_count = sort_words(trigram_count)
 
 for trigram in trigram_count.keys():
     print('{}\t{}'.format(trigram, trigram_count[trigram]))

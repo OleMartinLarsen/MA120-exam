@@ -1,30 +1,26 @@
 #!/usr/bin/python3
 import sys
-from lxml import etree
 import re
 import nltk
+from lxml import etree
 from nltk.tokenize import word_tokenize
 from nltk.util import ngrams
-from collections import Counter
 
 '''parse the data from xml document'''
 tree = etree.parse(sys.stdin)
 root = tree.getroot()
 
-text = "to be or not to be"
-
 
 def clean_text(text):
     '''function for cleaning text'''
-    text = re.sub("<.*?>", '', text.lower())
-    text = re.sub(r'[^\w\s]', '', text)
+    text = re.sub(r'[^\w\s]', '', text.lower())
     return text
 
 
 def make_bigram(text):
     '''makes a bigrams of a text'''
-    token = nltk.word_tokenize(text)
-    bigram = ngrams(token, 2)
+    tokens = nltk.word_tokenize(text)
+    bigram = ngrams(tokens, 2)
     for gram in bigram:
         print('{}\t{}'.format(gram, '1'))
 
@@ -35,3 +31,4 @@ for child in root:
         title = child.get("Title")
         title = clean_text(title)
         title = make_bigram(title)
+    
