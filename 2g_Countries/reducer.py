@@ -12,16 +12,14 @@ def sort_countries(data):
         sorted(data.items(), key=itemgetter(1), reverse=True))
     return sorted_countries
 
+
 for line in sys.stdin:
 
     '''parse the input we got from mapper.py'''
     country, count = line.split('\t', 1)
 
-    try:
-        count = int(count)
-    except ValueError:
-        '''count was not a number'''
-        continue
+    '''converts string to int'''
+    count = int(count)
 
     try:
         country_count[country] = country_count[country]+count

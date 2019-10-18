@@ -18,11 +18,8 @@ for line in sys.stdin:
     '''parse the input we got from mapper.py'''
     name, count = line.strip().split('\t', 1)
 
-    try:
-        count = int(count)
-    except ValueError:
-        '''count was not a number'''
-        continue
+    '''converts string to int'''
+    count = int(count)
 
     try:
         name_count[name] = name_count[name]+count

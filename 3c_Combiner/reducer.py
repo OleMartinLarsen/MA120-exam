@@ -9,11 +9,8 @@ for line in sys.stdin:
     '''parse the input we got from mapper.py'''
     word, count = line.strip().split('\t', 1)
 
-    try:
-        count = int(count)
-    except ValueError:
-        '''count was not a number'''
-        continue
+    '''converts string to int'''
+    count = int(count)
 
     try:
         wordcount[word] = wordcount[word]+count

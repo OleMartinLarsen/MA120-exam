@@ -28,7 +28,7 @@ for line in sys.stdin:
     reputations[username] = reputation
 
 
- 
+top10 = calculate_top10(reputations)
 
 for user in top10.keys():
     print('{}\t{}'.format(user, top10[user]))

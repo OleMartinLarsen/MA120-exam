@@ -31,4 +31,3 @@ for child in root:
         title = child.get("Title")
         title = clean_text(title)
         title = make_bigram(title)
-    
