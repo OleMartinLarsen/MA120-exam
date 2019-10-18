@@ -1,0 +1,5554 @@
+india	465
+london, united kingdom	357
+united states	344
+germany	288
+united kingdom	214
+paris, france	163
+bangalore, karnataka, india	159
+san francisco, ca	157
+berlin, germany	156
+canada	146
+netherlands	144
+france	142
+usa	137
+australia	133
+moscow, russia	126
+brazil	125
+italy	114
+new york, ny, united states	105
+israel	104
+switzerland	104
+singapore	102
+new york, united states	98
+san francisco, ca, united states	94
+london, uk	94
+amsterdam, netherlands	93
+california	92
+sweden	89
+russia	88
+pune, maharashtra, india	87
+sydney, australia	82
+uk	81
+seattle, wa	81
+belgium	78
+earth	78
+bangalore, india	74
+new york, ny	73
+mumbai, maharashtra, india	72
+toronto, canada	72
+london	72
+ukraine	71
+bengaluru, karnataka, india	71
+poland	70
+iran	66
+tokyo, japan	66
+melbourne, australia	65
+chennai, tamil nadu, india	65
+hyderabad, telangana, india	64
+china	62
+europe	60
+toronto, on, canada	60
+istanbul, turkey	60
+hong kong	59
+chicago, il	59
+philippines	59
+beijing, china	58
+prague, czech republic	58
+boston, ma	58
+south africa	58
+denmark	58
+delhi, india	57
+los angeles, ca, united states	56
+pakistan	56
+los angeles, ca	55
+munich, germany	55
+stockholm, sweden	55
+shanghai, china	54
+turkey	54
+portugal	54
+barcelona, spain	54
+ahmedabad, gujarat, india	54
+norway	53
+dublin, ireland	51
+spain	51
+montreal, canada	51
+buenos aires, argentina	49
+dhaka, bangladesh	49
+mumbai, india	47
+vienna, austria	46
+madrid, spain	46
+new york, ny, usa	45
+seattle, wa, united states	44
+tehran, iran	44
+indonesia	44
+austin, tx	43
+san diego, ca	42
+pune, india	42
+finland	42
+warsaw, poland	42
+new zealand	41
+chennai, india	41
+austria	41
+vancouver, bc, canada	41
+vietnam	40
+sao paulo, brazil	40
+sofia, bulgaria	40
+ireland	39
+portland, or	39
+new delhi, delhi, india	39
+romania	39
+the netherlands	38
+bulgaria	37
+bucharest, romania	37
+malaysia	37
+san francisco, ca, usa	36
+lisbon, portugal	36
+vancouver, canada	36
+czech republic	36
+cape town, south africa	36
+atlanta, ga	36
+nigeria	35
+argentina	35
+lagos, nigeria	35
+hyderabad, india	35
+sydney, new south wales, australia	34
+cambridge, united kingdom	34
+auckland, new zealand	34
+seoul, south korea	34
+texas	32
+california, united states	32
+athens, greece	31
+bangladesh	31
+zürich, switzerland	31
+sri lanka	31
+bangalore	31
+austin, tx, united states	31
+florida	31
+montreal, qc, canada	30
+mexico	30
+copenhagen, denmark	29
+budapest, hungary	29
+boston, ma, united states	29
+san francisco bay area	28
+tehran, tehran province, iran	28
+st. petersburg, russia	28
+pittsburgh, pa	27
+greece	27
+egypt	27
+denver, co	27
+minsk, belarus	26
+england, united kingdom	26
+santiago, chile	26
+gurgaon, haryana, india	26
+zurich, switzerland	26
+slovenia	25
+thailand	25
+melbourne, victoria, australia	25
+manchester, united kingdom	25
+hamburg, germany	25
+bengaluru, india	24
+dallas, tx	24
+dubai - united arab emirates	24
+japan	24
+san francisco	24
+houston, tx	23
+kyiv, ukraine	23
+frankfurt, germany	23
+bangkok thailand	23
+new york city	22
+tbilisi, georgia	22
+milan, italy	22
+chandigarh, india	22
+san diego, ca, united states	22
+helsinki, finland	21
+lahore, pakistan	21
+san jose, ca	21
+hungary	21
+oslo, norway	21
+nairobi, kenya	21
+paris	21
+chicago, il, united states	21
+los angeles, ca, usa	20
+edinburgh, united kingdom	20
+new delhi, india	20
+johannesburg, south africa	20
+karachi, pakistan	20
+atlanta, ga, united states	20
+brisbane, australia	20
+singapore, singapore	20
+utah	20
+seattle, wa, usa	20
+morocco	20
+saint petersburg, russia	20
+brooklyn, ny	20
+jakarta, indonesia	20
+dhaka, dhaka division, bangladesh	19
+las vegas, nv	19
+taiwan	19
+philadelphia, pa	19
+berlin	19
+new york	19
+rome, italy	19
+hanoi, vietnam	18
+i̇stanbul, türkiye	18
+tallinn, estonia	18
+ottawa, canada	18
+rio de janeiro, brazil	18
+bangkok, thailand	18
+ahmadabad, india	18
+noida, uttar pradesh, india	18
+islamabad, pakistan	18
+tel aviv, israel	18
+palo alto, ca	18
+portland, or, united states	18
+cairo, egypt	18
+miami, fl	18
+tehran province, iran	17
+michigan	17
+colombo, sri lanka	17
+brighton, united kingdom	17
+south korea	17
+slovakia	17
+jaipur, rajasthan, india	17
+washington, dc	17
+perth, australia	17
+virginia	17
+prague, czechia	17
+salt lake city, ut	17
+nepal	17
+ankara, turkey	16
+mountain view, ca	16
+cologne, germany	16
+utrecht, netherlands	16
+minneapolis, mn	15
+mumbai	15
+planet earth	15
+raleigh, nc	15
+wellington, new zealand	15
+berlin, deutschland	15
+houston, tx, united states	15
+san jose, ca, united states	15
+ho chi minh city, vietnam	15
+new jersey	15
+kiev, ukraine	15
+kolkata, west bengal, india	15
+nyc	15
+mountain view, ca, united states	15
+minnesota	15
+philadelphia, pa, united states	15
+austin, tx, usa	15
+ontario, canada	15
+dallas, tx, united states	15
+gurgaon, india	14
+denver, co, united states	14
+ottawa, on, canada	14
+toronto	14
+moscow	14
+tel aviv-yafo, israel	14
+coimbatore, tamil nadu, india	14
+washington, dc, united states	14
+münchen, deutschland	14
+brasil	14
+zagreb, croatia	14
+lahore, punjab, pakistan	14
+lithuania	14
+cambridge, ma	13
+phoenix, az	13
+ljubljana, slovenia	13
+nashville, tn	13
+new delhi	13
+england	13
+kathmandu, nepal	13
+lyon, france	13
+boulder, co	13
+chicago, il, usa	13
+karlsruhe, germany	13
+croatia	13
+taipei city, taiwan	13
+bergen, norway	13
+chennai	13
+são paulo - state of são paulo, brazil	13
+brussels, belgium	13
+estonia	12
+ahmedabad, india	12
+florida, united states	12
+oakland, ca, united states	12
+massachusetts	12
+bratislava, slovakia	12
+california, usa	12
+hangzhou, china	12
+denver, co, usa	12
+madrid, españa	12
+melbourne vic, australia	12
+hyderabad	12
+washington, united states	12
+pittsburgh, pa, united states	12
+kerala, india	12
+trondheim, norway	12
+colorado	12
+gothenburg, sweden	12
+bay area, ca, united states	11
+tunisia	11
+valencia, spain	11
+los angeles	11
+tampa, fl	11
+columbus, oh	11
+montreal	11
+brno, czech republic	11
+gurugram, haryana, india	11
+italia	11
+wroclaw, poland	11
+north carolina	11
+surat, gujarat, india	11
+indore, madhya pradesh, india	11
+oakland, ca	11
+cape town, western cape, south africa	11
+kochi, kerala, india	11
+venezuela	11
+silicon valley	11
+toulouse, france	11
+việt nam	11
+malta	10
+calgary, ab, canada	10
+boston, ma, usa	10
+nantes, france	10
+taipei, taiwan	10
+aachen, germany	10
+bordeaux, france	10
+barcelona, españa	10
+colombia	10
+são paulo - sp, brasil	10
+riga, latvia	10
+indiana	10
+wrocław, poland	10
+frankfurt am main, deutschland	10
+orlando, fl, united states	10
+kraków, poland	10
+belgrade, serbia	10
+tunis, tunisia	10
+yerevan, armenia	10
+scotland, united kingdom	10
+haifa, israel	10
+dallas, tx, usa	10
+geneva, switzerland	10
+world	10
+charlotte, nc	10
+barcelona	10
+chicago	10
+delhi	10
+kyiv city, ukraine	10
+stuttgart, germany	10
+ohio	10
+kolkata, india	10
+wisconsin	10
+calgary, canada	10
+manchester, uk	10
+são paulo, sp, brasil	9
+sydney	9
+amsterdam	9
+minneapolis, mn, united states	9
+bern, switzerland	9
+miami, fl, usa	9
+rotterdam, netherlands	9
+kharkiv, ukraine	9
+karachi, sindh, pakistan	9
+berkeley, ca	9
+vienna	9
+connecticut	9
+madison, wi	9
+texas, united states	9
+oxford, united kingdom	9
+san jose, ca, usa	9
+nashville, tn, united states	9
+uppsala, sweden	9
+the internet	9
+algeria	9
+porto, portugal	9
+san francisco bay area, ca, united states	9
+european union	9
+nyc, ny, united states	9
+porto alegre, brazil	9
+arizona	9
+glasgow, united kingdom	9
+cambridge, ma, united states	9
+brooklyn, ny, united states	9
+mexico city, mexico	9
+leeds, united kingdom	9
+illinois	9
+pennsylvania	9
+phnom penh, cambodia	8
+atlanta, ga, usa	8
+orlando, fl	8
+ankara, türkiye	8
+zürich, schweiz	8
+islamabad, islamabad capital territory, pakistan	8
+novosibirsk, russia	8
+uruguay	8
+milan, metropolitan city of milan, italy	8
+shenzhen, china	8
+islamabad capital territory, pakistan	8
+waterloo, canada	8
+dresden, germany	8
+sunnyvale, ca, united states	8
+noida, india	8
+st. louis, mo, united states	8
+comilla, bangladesh	8
+lima, peru	8
+pretoria, south africa	8
+ghent, belgium	8
+charlotte, nc, united states	8
+sydney nsw, australia	8
+adelaide, australia	8
+fort collins, co	8
+united arab emirates	8
+rochester, ny	8
+us	8
+istanbul, i̇stanbul, turkey	8
+istanbul	8
+oregon	8
+baltimore, md	8
+bristol, united kingdom	8
+sacramento, ca	8
+grenoble, france	8
+cincinnati, oh	8
+columbus, oh, usa	8
+las vegas, nv, united states	8
+wien, österreich	8
+cincinnati, oh, united states	8
+costa rica	8
+vadodara, gujarat, india	8
+jaipur, india	8
+düsseldorf, germany	8
+waterloo, on, canada	8
+antarctica	8
+colombo, western province, sri lanka	8
+liverpool, united kingdom	8
+serbia	8
+huntsville, al	7
+amsterdam, nederland	7
+cape town	7
+christchurch, new zealand	7
+127.0.0.1	7
+georgia	7
+colorado, united states	7
+antwerp, belgium	7
+new jersey, united states	7
+jerusalem, israel	7
+leicester, united kingdom	7
+texas, usa	7
+victoria, canada	7
+manila, philippines	7
+chile	7
+washington, dc, usa	7
+belgrade	7
+beijing	7
+las vegas, nv, usa	7
+redmond, wa, united states	7
+st. louis, mo	7
+gainesville, fl	7
+hamburg, deutschland	7
+rajkot, india	7
+n/a	7
+pittsburgh, pa, usa	7
+kuala lumpur, malaysia	7
+canberra, australia	7
+lausanne, switzerland	7
+bogotá, colombia	7
+guadalajara, mexico	7
+san mateo, ca	7
+luxembourg	7
+kansas city, mo	7
+seattle	7
+san antonio, tx	7
+aarhus, denmark	7
+são paulo, brazil	7
+seville, spain	7
+houston, tx, usa	7
+nagpur, maharashtra, india	7
+san diego, ca, usa	7
+north america	7
+england, uk	6
+montréal, qc, canada	6
+kenya	6
+delft, netherlands	6
+sarajevo, bosnia and herzegovina	6
+redmond, wa	6
+arizona, united states	6
+caracas, venezuela	6
+salt lake city, ut, united states	6
+princeton, nj	6
+bellevue, wa	6
+lebanon	6
+gdańsk, poland	6
+detroit, mi	6
+ann arbor, mi	6
+guatemala	6
+manchester	6
+sunnyvale, ca	6
+cluj-napoca, romania	6
+thessaloniki, greece	6
+turin, italy	6
+hong kong island, hong kong	6
+amsterdam, the netherlands	6
+scotland	6
+st louis, mo	6
+polska	6
+tennessee	6
+milano, mi, italia	6
+vancouver	6
+washington dc	6
+baltimore, md, united states	6
+shenzhen, guangdong, china	6
+quebec	6
+i̇zmir, turkey	6
+portland, or, usa	6
+tehran	6
+remote	6
+durham, nc	6
+bishkek, kyrgyzstan	6
+toronto, ontario, canada	6
+albuquerque, nm	6
+palo alto, ca, united states	6
+worldwide	6
+grand rapids, mi	6
+pune	6
+raleigh, nc, united states	6
+boulder, co, united states	6
+adelaide, south australia, australia	6
+warsaw	6
+philadelphia, pa, usa	6
+everywhere	6
+galway, ireland	6
+nyc, ny, usa	6
+campinas, brazil	6
+rennes, france	6
+asia	6
+türkiye	6
+rio de janeiro - rj, brasil	6
+zug, switzerland	6
+méxico	6
+virginia, united states	6
+birmingham, united kingdom	6
+boston	6
+bosnia and herzegovina	6
+hangzhou, zhejiang, china	6
+edmonton, ab, canada	6
+bay area, ca, usa	6
+belo horizonte, brazil	6
+madrid	6
+ahmedabad	6
+latvia	6
+delaware	6
+goa, india	6
+madurai, tamil nadu, india	6
+kochi, india	6
+southern california	6
+nottingham, united kingdom	6
+internet	6
+montevideo, uruguay	6
+phoenix, az, united states	6
+milky way	6
+beijing, 北京市中国	6
+munich	6
+cleveland, oh, united states	6
+bristol, uk	6
+kiev, kyiv city, ukraine	6
+irvine, ca, united states	6
+iasi, romania	5
+karlsruhe, deutschland	5
+leuven, belgium	5
+nairobi	5
+raleigh, nc, usa	5
+vilnius, vilnius county, lithuania	5
+armenia	5
+ho chi minh city, ho chi minh, vietnam	5
+viet nam	5
+st. louis, mo, usa	5
+cambodia	5
+românia	5
+kerala	5
+pennsylvania, united states	5
+heidelberg, germany	5
+lucknow, uttar pradesh, india	5
+phoenix, az, usa	5
+cambridge, uk	5
+cyprus	5
+eindhoven, netherlands	5
+lviv, lviv oblast, ukraine	5
+medellin, colombia	5
+kathmandu, central region, nepal	5
+plano, tx, united states	5
+united states of america	5
+tokyo	5
+odessa, ukraine	5
+chengdu, china	5
+bruxelles, belgique	5
+richmond, va	5
+fort lauderdale, fl, united states	5
+bergamo, italy	5
+riyadh, saudi arabia	5
+indianapolis, in	5
+earth, tx	5
+kazakhstan	5
+connecticut, usa	5
+florida, usa	5
+halifax, ns, canada	5
+dubai, united arab emirates	5
+ghaziabad, uttar pradesh, india	5
+jordan	5
+boise, id	5
+peru	5
+athens, kentrikos tomeas athinon, greece	5
+curitiba, brazil	5
+santa barbara, ca	5
+tallinn, tallinna linn, estonia	5
+miami, fl, united states	5
+ghana	5
+norwich, united kingdom	5
+moskva, москва, россия	5
+krakow, poland	5
+łódź, poland	5
+iowa	5
+da nang, vietnam	5
+mountain view, ca, usa	5
+москва, россия	5
+guangzhou	5
+belgië	5
+poznan, poland	5
+brisbane, queensland, australia	5
+charleston, sc	5
+tamil nadu, india	5
+bologna, italy	5
+kansas city, mo, united states	5
+belfast, united kingdom	5
+alexandria, egypt	5
+kraków, polska	5
+kuala lumpur, federal territory of kuala lumpur, malaysia	5
+bremen, germany	5
+seoul, 대한민국	5
+bellevue, wa, united states	5
+montpellier, france	5
+bellingham, wa	5
+asuncion, paraguay	5
+alaska	5
+dehradun, uttarakhand, india	5
+lviv, ukraine	5
+kiev	5
+rajkot, gujarat, india	5
+bloomington, in, united states	5
+patna, bihar, india	5
+jamaica	5
+uae	5
+rawalpindi, pakistan	5
+vancouver, bc	5
+boulder, co, usa	5
+iceland	5
+san francisco bay area, ca, usa	5
+the hague, netherlands	5
+rio de janeiro	5
+trivandrum, kerala, india	5
+riga, republic of latvia	5
+bellevue, wa, usa	5
+cupertino, ca	5
+málaga, spain	5
+honolulu, hi	5
+irvine, ca	5
+cebu, philippines	4
+cameroon	4
+lahore	4
+iran, tehran	4
+virginia, usa	4
+accra, ghana	4
+reading, united kingdom	4
+대한민국 seoul	4
+bhopal, madhya pradesh, india	4
+zurich	4
+ontario	4
+surat, india	4
+helsinki	4
+leeds, uk	4
+graz, austria	4
+korea	4
+中国上海市shanghai shi	4
+mohali, punjab, india	4
+portsmouth, united kingdom	4
+cyberspace	4
+manhattan, new york, ny, united states	4
+arnhem, netherlands	4
+bhaktapur, nepal	4
+belo horizonte - mg, brasil	4
+kozhikode, india	4
+kirkland, wa	4
+salt lake city, ut, usa	4
+winnipeg, mb, canada	4
+russian federation	4
+massachusetts, united states	4
+anchorage, ak	4
+cleveland, oh, usa	4
+darmstadt, germany	4
+north rhine-westphalia, germany	4
+shanghai	4
+thiruvananthapuram, india	4
+amman, jordan	4
+varanasi, uttar pradesh, india	4
+calicut, kerala, india	4
+indianapolis, in, united states	4
+odense, denmark	4
+halifax, canada	4
+russia, moscow	4
+stuttgart, deutschland	4
+中国北京市beijing shi	4
+milwaukee, wi	4
+braga, portugal	4
+tabriz, east azerbaijan province, iran	4
+cluj-napoca, cluj county, romania	4
+moscow, россия	4
+vilnius, lithuania	4
+turku, finland	4
+kaliningrad, russia	4
+british columbia, canada	4
+santo domingo, distrito nacional, dominican republic	4
+cochin, kerala, india	4
+poznań, poland	4
+dominican republic	4
+azerbaijan	4
+maryland	4
+karaj, alborz province, iran	4
+san diego	4
+syracuse, ny	4
+nairobi, nairobi county, kenya	4
+quezon city, ncr, philippines	4
+south carolina	4
+lincoln, ne	4
+localhost	4
+monterrey, mexico	4
+indore	4
+gent, belgië	4
+belarus	4
+bournemouth, united kingdom	4
+cracow, poland	4
+lund, sweden	4
+europa	4
+new mexico	4
+porto alegre - rs, brasil	4
+wilmington, nc	4
+kuala lumpur	4
+silicon valley, ca, united states	4
+johannesburg, gauteng, south africa	4
+volgograd, russia	4
+santa monica, ca, united states	4
+silicon valley, ca, usa	4
+victoria, bc, canada	4
+brasília - df, brasil	4
+berkeley, ca, united states	4
+serbia, belgrade	4
+philadelphia	4
+/dev/null	4
+espoo, finland	4
+praha, česko	4
+roma, rm, italia	4
+maryland, usa	4
+dhaka division, bangladesh	4
+utah, united states	4
+riyadh, riyadh province, saudi arabia	4
+coimbatore, india	4
+cambridge, ma, usa	4
+uganda	4
+lille, france	4
+rajkot	4
+provo, ut	4
+mars	4
+louisville, ky	4
+novi sad, serbia	4
+cleveland, oh	4
+ho chi minh, ho chi minh city, vietnam	4
+hồ chí minh, việt nam	4
+ny, united states	4
+santa clara, ca	4
+nice, france	4
+qatar	4
+nuremberg, germany	4
+valencia, españa	4
+colorado springs, co	4
+melbourne	4
+	3
+palestine	3
+mannheim, germany	3
+bristol	3
+memphis, tn	3
+curitiba - pr, brasil	3
+chandigarh	3
+atlanta	3
+seoul, korea	3
+glasgow, uk	3
+addis ababa, ethiopia	3
+bangkok	3
+tallahassee, fl	3
+new york, usa	3
+canberra act, australia	3
+chapel hill, nc	3
+hoboken, nj, united states	3
+makati, ncr, philippines	3
+nomad	3
+nowhere	3
+berne, switzerland	3
+hoboken, nj	3
+havana, cuba	3
+split, croatia	3
+north carolina, usa	3
+isle of man	3
+cork, ireland	3
+colorado, usa	3
+cordoba, argentina	3
+tempe, az	3
+el salvador	3
+ukraina	3
+new york city, ny, united states	3
+québec, qc, canada	3
+hawaii	3
+bengaluru	3
+gibraltar	3
+ohio, usa	3
+medellín - antioquia, colombia	3
+melbourne australia	3
+são paulo	3
+africa	3
+esbo, finland	3
+san antonio, tx, united states	3
+brooklyn, ny, usa	3
+paraguay	3
+isfahan, isfahan province, iran	3
+tirana, tirana county, albania	3
+taichung city, taiwan	3
+chengdu, sichuan, china	3
+iowa city, ia	3
+mexico city	3
+newcastle upon tyne, united kingdom	3
+españa	3
+pittsburgh	3
+iraq	3
+scottsdale, az, united states	3
+heidelberg, deutschland	3
+oxford, uk	3
+almaty, kazakhstan	3
+santa clara, ca, usa	3
+new hampshire	3
+hcmc, vietnam	3
+nebraska	3
+guangzhou, china	3
+attock, pakistan	3
+ulm, germany	3
+east coast	3
+jakarta	3
+maine	3
+puerto rico	3
+athens, ga	3
+washington d.c., dc, usa	3
+new jersey, usa	3
+albany, ny, united states	3
+arlington, va	3
+edinburgh, scotland	3
+uzbekistan	3
+palo alto, ca, usa	3
+oklahoma city, ok	3
+quebec city, canada	3
+syria	3
+santa monica, ca	3
+fairfax, va, united states	3
+michigan, united states	3
+bloomington, in	3
+aberdeen, united kingdom	3
+southampton, united kingdom	3
+dar es salaam, tanzania	3
+sacramento, ca, united states	3
+quito, ecuador	3
+tacoma, wa	3
+minnesota, usa	3
+brno, czechia	3
+manchester, nh, united states	3
+perth wa, australia	3
+la	3
+pisa, italy	3
+中国上海市	3
+warszawa, polska	3
+blacksburg, va	3
+fremont	3
+grand rapids, mi, united states	3
+antwerpen, belgië	3
+long island, ny, united states	3
+morgantown, wv	3
+provo, ut, usa	3
+mashhad, razavi khorasan province, iran	3
+lancaster, pa	3
+leiden, the netherlands	3
+west lafayette, in	3
+here	3
+mississauga, canada	3
+kampala, central region, uganda	3
+charlotte, nc, usa	3
+chittagong, bangladesh	3
+birmingham, al	3
+wales	3
+san salvador, el salvador	3
+hamburg	3
+columbus, oh, united states	3
+ithaca, ny	3
+versailles, france	3
+wales, uk	3
+sydney australia	3
+bogota, colombia	3
+roorkee, uttarakhand, india	3
+florianópolis - sc, brasil	3
+brisbane city qld, australia	3
+tanzania	3
+brisbane city, queensland, australia	3
+florianópolis, state of santa catarina, brazil	3
+wales, united kingdom	3
+izmir, turkey	3
+san juan, puerto rico	3
+markham, canada	3
+las vegas	3
+santa monica, ca, usa	3
+minsk	3
+vadodara, india	3
+wrocław, polska	3
+ca, usa	3
+bochum, germany	3
+irvine, ca, usa	3
+genoa, italy	3
+north carolina, united states	3
+macedonia	3
+vijayawada, andhra pradesh, india	3
+trinidad and tobago	3
+rotterdam, nederland	3
+hong kong, hong kong	3
+jacksonville, fl, united states	3
+coventry, united kingdom	3
+charleston, sc, united states	3
+copenhagen	3
+casablanca, maroc	3
+india gate, new delhi, delhi, india	3
+mississauga, on, canada	3
+space	3
+tel aviv-yafo, ישראל	3
+kuala lumpur federal territory of kuala lumpur malaysia	3
+stuttgart	3
+madurai, india	3
+bhubaneswar, india	3
+louisiana	3
+brasilia, brazil	3
+brooklyn	3
+luxembourg city, luxembourg	3
+online	3
+massachusetts, usa	3
+prague	3
+daejeon, south korea	3
+bilbao, spain	3
+fremont, ca, usa	3
+jacksonville, fl, usa	3
+gwalior, madhya pradesh, india	3
+taiwan, 台灣	3
+leiden, netherlands	3
+zimbabwe	3
+czechia	3
+budapest	3
+ames, ia	3
+graz, österreich	3
+somerville, ma	3
+guwahati, assam, india	3
+tucson, az	3
+sarajevo, federation of bosnia and herzegovina, bosnia and herzegovina	3
+bavaria	3
+cincinnati, oh, usa	3
+中国广东省shenzhen shi	3
+the earth	3
+tampere, finland	3
+delhi, new delhi, india	3
+florianópolis, brazil	3
+durham, nc, united states	3
+winnipeg, canada	3
+rio de janeiro, rj, brasil	3
+nottingham, uk	3
+stellenbosch, south africa	3
+maryland, united states	3
+santa clara, ca, united states	3
+knoxville, tn	3
+republik indonesia	3
+charlottesville, va	3
+milwaukee, wi, united states	3
+recife, brazil	3
+sheffield, united kingdom	3
+nc, united states	3
+minneapolis	3
+menlo park, ca, united states	3
+buffalo, ny	3
+augsburg, germany	3
+sudan	3
+ann arbor, mi, usa	3
+riverside, ca	3
+calgary	3
+a coruña, spain	3
+washington	3
+bend, or	3
+tennessee, united states	3
+fort worth, tx	3
+scottsdale, az	3
+duluth, mn	3
+solar system	3
+ohio, united states	3
+kitchener, on, canada	3
+londres, royaume-uni	3
+illinois, usa	2
+tartu, estonia	2
+secret	2
+frankfurt am main, germany	2
+st. petersburg, fl, united states	2
+knoxville, tn, usa	2
+salvador, brazil	2
+kiel, germany	2
+gouda, netherlands	2
+bogotá - bogota, colombia	2
+kassel, germany	2
+the moon	2
+visakhapatnam	2
+boise, id, usa	2
+graz	2
+el cerrito, ca	2
+ann arbor, mi, united states	2
+bahrain	2
+south florida, fl	2
+cloud	2
+budapest, magyarország	2
+vladivostok, russia	2
+tampa, florida	2
+nürnberg, deutschland	2
+umeå, sweden	2
+cambridgeshire, united kingdom	2
+kuching, sarawak, malaysia	2
+olathe, ks	2
+visakhapatnam, india	2
+reno, nv, usa	2
+la paz, bolivia	2
+falls church, va, united states	2
+stockholm, sverige	2
+salem, or	2
+sao carlos, brazil	2
+oregon, united states	2
+hartford, ct	2
+göteborg, sverige	2
+kaunas, kaunas county, lithuania	2
+omaha, ne	2
+campo grande - ms, brasil	2
+vienna, vienna, austria	2
+cayman islands	2
+jakarta, daerah khusus ibukota jakarta, indonesia	2
+antananarivo, madagascar	2
+rugby, united kingdom	2
+rio de janeiro, state of rio de janeiro, brazil	2
+nizhny novgorod, russia	2
+oxford	2
+new orleans	2
+ulaanbaatar, mongolia	2
+montana	2
+arkansas, united states	2
+minnesota, united states	2
+saratov, russia	2
+york, united kingdom	2
+hamilton, on, canada	2
+aalborg, danmark	2
+california, us	2
+pittsford, ny	2
+joinville, brazil	2
+kazan', russia	2
+linz, austria	2
+tunis, gouvernorat de tunis, tunisie	2
+tasmania, australia	2
+hilversum, netherlands	2
+fareham, united kingdom	2
+dnipro, ukraine	2
+maharashtra, india	2
+liverpool, uk	2
+cochin, india	2
+gb	2
+hobart, australia	2
+the matrix	2
+delray beach, fl	2
+alpha centauri	2
+north dakota	2
+hull, united kingdom	2
+surabaya, jawa timur, indonesia	2
+orange county, ca, usa	2
+udaipur, rajasthan, india	2
+san luis obispo, ca	2
+canton, mi, united states	2
+location	2
+hollywood, fl	2
+sylhet, bangladesh	2
+faridabad	2
+san francisco, california	2
+gaborone, botswana	2
+brisbane	2
+kuwait	2
+magdeburg, germany	2
+edinburgh, uk	2
+tampa, fl, united states	2
+west chester, pa, united states	2
+buffalo, ny, united states	2
+torun, poland	2
+brescia, italy	2
+davao city, philippines	2
+martinez, ca, united states	2
+long beach, ca, united states	2
+cebu city, central visayas, philippines	2
+breda, netherlands	2
+lynchburg, va	2
+gandhinagar, gujarat, india	2
+lexington, ma, united states	2
+kansas city, ks	2
+columbus, ohio, usa	2
+madison, wi, united states	2
+new england, usa	2
+bellingham, ma	2
+санкт-петербург, город санкт-петербург, россия	2
+mountain view, california	2
+georgia, usa	2
+sofia, българия	2
+quebec, canada	2
+escondido, ca	2
+peoria, il	2
+makati, philippines	2
+north vancouver, bc, canada	2
+strasbourg, france	2
+adama, ethiopia	2
+jyvaskyla, finland	2
+durban, kwazulu-natal, south africa	2
+calgary, ab	2
+carabobo, venezuela	2
+lafayette, co	2
+web	2
+nagoya, japan	2
+noida	2
+mangalore, karnataka, india	2
+petaling jaya, malaysia	2
+salzburg, austria	2
+brahmapur, odisha, india	2
+san francisco, california, ee. uu.	2
+zaragoza, spain	2
+south australia, australia	2
+maine, usa	2
+burbank, ca	2
+pokhara, nepal	2
+illinois, united states	2
+hangzhou, 浙江省中国	2
+san mateo, ca, united states	2
+manila, ncr, philippines	2
+richardson, tx	2
+foster city, ca, united states	2
+columbia, md, united states	2
+japan tokyo	2
+null	2
+columbia, mo, united states	2
+urbana, il	2
+newport beach, ca, united states	2
+medford, or, united states	2
+silicon valley, ca	2
+north wales, united kingdom	2
+rawalpindi, punjab, pakistan	2
+leipzig, deutschland	2
+culemborg, netherlands	2
+bremen	2
+mordor	2
+lisboa	2
+algérie	2
+boston, massachusetts, united states	2
+cary, nc	2
+los altos, ca, united states	2
+clemson, sc	2
+carrollton, tx, united states	2
+fargo, nd	2
+davis, ca, united states	2
+london, england	2
+praha, česká republika	2
+albany, ny	2
+kentucky, united states	2
+rs, brasil	2
+oman	2
+vejle, denmark	2
+ramat gan, israel	2
+cleveland, ohio	2
+bandung, bandung city, west java, indonesia	2
+fort collins, co, united states	2
+burnaby, bc, canada	2
+hamilton, waikato, new zealand	2
+porto	2
+sf	2
+cdmx, mexico	2
+los alamos, nm	2
+montreal, quebec, canada	2
+none	2
+dublin	2
+beijing china	2
+medellín, colombia	2
+gainesville, fl, united states	2
+victoria, australia	2
+fort lauderdale, fl	2
+tunísia, tunisie	2
+kurdistan	2
+l'viv, ukraine	2
+sterling, va, united states	2
+fort myers, fl, united states	2
+poznań, polska	2
+pune,india	2
+arlington, ma	2
+madison, wi, usa	2
+arkansas	2
+orem, ut, united states	2
+campinas - state of são paulo, brazil	2
+louisville, ky, united states	2
+albania	2
+pasadena, ca	2
+longueuil, qc, canada	2
+canary islands	2
+hà nội, việt nam	2
+kent, oh	2
+stack exchange	2
+norman, ok	2
+parker, co	2
+fargo, nd, united states	2
+palma de mallorca, spain	2
+cupertino, ca, united states	2
+tbilisi, грузия	2
+halifax, ns	2
+patna, india	2
+woerden, netherlands	2
+changsha, hunan, china	2
+bay area	2
+oxfordshire, united kingdom	2
+nowhere, ok	2
+lancaster, ca	2
+aarhus, danmark	2
+braunschweig, deutschland	2
+geneva	2
+nanjing, china	2
+phl	2
+mn, united states	2
+yogyakarta, indonesia	2
+reykjavík, iceland	2
+szczecin, poland	2
+monterey bay, california, usa	2
+doha, qatar	2
+kansas city	2
+medan city, north sumatra, indonesia	2
+trento, italy	2
+surrey, bc, canada	2
+chernihiv, ukraine	2
+accra, greater accra region, ghana	2
+санкт-петербург, россия	2
+dharamshala, himachal pradesh, india	2
+aalborg, denmark	2
+banja luka, republika srpska, bosnia and herzegovina	2
+tamworth, united kingdom	2
+targoviste, romania	2
+astana, kazakhstan	2
+varna, bulgaria	2
+timișoara, romania	2
+khartoum, sudan	2
+jyväskylä, finland	2
+lowell, ma, united states	2
+miami	2
+sioux city, ia, usa	2
+chengdu	2
+over there	2
+east coast, usa	2
+la crosse, wi	2
+cusco, peru	2
+vilnius, republic of lithuania	2
+markham, on, canada	2
+lucknow, india	2
+kentucky	2
+new orleans, la, united states	2
+oslo	2
+kathmandu, central development region, nepal	2
+kansas city, mo, usa	2
+santa cruz, ca, usa	2
+hanover, germany	2
+manipal, karnataka, india	2
+kharkov, харьковская область, украина	2
+catalonia, spain	2
+caracas, distrito capital, venezuela	2
+myanmar	2
+district of columbia	2
+burlington, vt	2
+greater noida, uttar pradesh, india	2
+fortaleza - ce, brasil	2
+nsw, australia	2
+detroit, mi, united states	2
+huntington beach, ca	2
+alabama	2
+torino, to, italia	2
+vienna, österreich	2
+brno, česko	2
+farmville, va	2
+st petersburg, russia	2
+lisbon	2
+richmond, va, united states	2
+mauritius, port louis	2
+little rock, ar, united states	2
+chania, greece	2
+akron, oh	2
+bari, italy	2
+waltham, ma, united states	2
+durham, uk	2
+kathmandu	2
+laniakea supercluster	2
+ra'anana, israel	2
+morbi, gujarat, india	2
+edmonton, canada	2
+alberta, canada	2
+中国北京市	2
+århus, denmark	2
+goiânia, go, brasil	2
+gold coast, queensland, australia	2
+bc, canada	2
+santa clara	2
+abu dhabi - united arab emirates	2
+bellingham, wa, usa	2
+bonn, germany	2
+ostrava, czech republic	2
+cardiff, united kingdom	2
+toledo, oh	2
+casablanca, morocco	2
+world wide	2
+oklahoma city	2
+adana, türkiye	2
+carlsbad, ca	2
+odesa, ukraine	2
+allahabad, india	2
+cyberjaya selangor malaysia	2
+jammu	2
+vancouver, british columbia	2
+visakhapatnam, andhra pradesh, india	2
+nc	2
+oslo, norge	2
+st. paul, mn	2
+rochester, mn	2
+global	2
+lucknow	2
+so cal	2
+fort worth, tx, united states	2
+the hague, nl	2
+kentucky, usa	2
+yekaterinburg, russia	2
+tashkent, uzbekistan	2
+new york city, ny	2
+bentonville, ar, united states	2
+shanghai, 上海市中国	2
+alphen aan den rijn, the netherlands	2
+lima, perú	2
+nomadic	2
+kazan, russia	2
+unknown	2
+la plata, argentina	2
+i̇stanbul, turkey	2
+coimbra, portugal	2
+manitoba	2
+chittagong, chittagong division, bangladesh	2
+belo horizonte, mg, brasil	2
+montevideo montevideo department, uruguay	2
+bamberg, germany	2
+durban, south africa	2
+chattanooga, tn, united states	2
+buenos aires, autonomous city of buenos aires, argentina	2
+ho chi minh, vietnam	2
+taipei	2
+santa cruz, ca	2
+detroit, mi, usa	2
+ensenada, mexico	2
+hong kong, 香港	2
+londra, i̇ngiltere	2
+jupiter, fl	2
+southern california, ca, united states	2
+stockholm	2
+orléans, france	2
+potsdam, germany	2
+u.s.a.	2
+kaunas, lithuania	2
+arlington, va, united states	2
+charlton, ma, united states	2
+nicaragua	2
+kolkata	2
+kulim kedah malaysia	2
+corfu, greece	2
+kochi	2
+wisconsin, united states	2
+brno, česká republika	2
+great malvern, united kingdom	2
+vigo, spain	2
+hilo, hi	2
+richardson, tx, united states	2
+cupertino, ca, usa	2
+oakville, canada	2
+ru	2
+perth, western australia, australia	2
+dhaka	2
+helsingborg, sweden	2
+rasht, gilan province, iran	2
+denver	2
+birmingham, uk	2
+washington, d.c., usa	2
+jaipur	2
+kanpur, india	2
+silver spring, md	2
+connecticut, united states	2
+rome, ny	2
+crailsheim, deutschland	2
+krasnoyarsk, krasnoyarsk krai, russia	2
+thailand bangkok	2
+santa cruz, ca, united states	2
+banja luka, bosnia and herzegovina	2
+aleppo, aleppo governorate, syria	2
+springfield, va	2
+idaho	2
+plymouth, united kingdom	2
+auckland	2
+new brunswick, canada	2
+winterthur, switzerland	2
+kyiv city, kyiv city, ukraine	2
+mangalore, india	2
+nebraska, united states	2
+novi sad, vojvodina	2
+campinas - sp, brasil	2
+moscow, id	2
+anywhere	2
+russia, samara	2
+dubai	2
+deutschland	2
+lagos	2
+bologna	2
+kecskemét, hungary	2
+córdoba, cordoba, argentina	2
+são paulo, state of são paulo, brazil	2
+kaiserslautern, germany	2
+fr	2
+ma	2
+fairfax, va	2
+saudi arabia	2
+debrecen, hungary	2
+genoa, metropolitan city of genoa, italy	2
+evanston, il	2
+spokane, wa	2
+ft lauderdale, fl, united states	2
+greensboro, nc, united states	2
+santa barbara, ca, united states	2
+behind you	2
+bali, indonesia	2
+rybnik, poland	2
+copenhagen, danmark	2
+alabama, united states	2
+karachi city, pakistan	2
+ukraine, kiev	2
+zwolle, netherlands	2
+petaluma, ca	2
+london uk	2
+centurion, gauteng, south africa	2
+providence, ri	2
+bielefeld, germany	2
+orange county, ca	2
+joão pessoa - state of paraíba, brazil	2
+memphis, tn, united states	2
+oblivion	2
+poole, united kingdom	2
+nederland	2
+québec city, qc, canada	2
+bucharest	2
+bandung	2
+medford, or	2
+golden, co	2
+somewhere in europe	2
+lexington, ky	2
+goiania, brazil	2
+iowa, united states	2
+palm beach, fl	2
+st petersburg, saint petersburg, russia	2
+alexandria governorate, egypt	2
+montclair, nj	2
+frisco, tx, united states	2
+mexico city, méxico	2
+abuja, federal capital territory, nigeria	2
+mozambique	2
+irkutsk, russia	2
+starkville, ms, united states	2
+ca	2
+kaluga, russia	2
+fulda, deutschland	2
+london, england, united kingdom	2
+fayetteville, ar, united states	2
+tucson, az, united states	2
+curitiba - state of paraná, brazil	2
+bay area, california	2
+south dakota	2
+hyderabad,india	2
+south san francisco, ca, united states	2
+wichita, ks	2
+shillong, india	2
+reading, uk	2
+trondheim, norge	2
+rotterdam, the netherlands	2
+seattle, washington, united states	2
+københavn, danmark	2
+st paul, mn, usa	2
+koratty infopark, koratty, kerala, india	2
+perth, western australia	2
+syracuse	2
+edinburgh	2
+kansas	2
+colorado springs, co, usa	2
+gujarat, india	2
+yemen	2
+castro valley, ca	2
+tomsk, russia	2
+eastern europe	2
+mesa, az, united states	2
+kandy, sri lanka	2
+british columbia	2
+koblenz, germany	2
+lawrence, ks	2
+marbella, spain	2
+innsbruck, austria	2
+nj, usa	2
+kristiansand, norway	2
+walnut creek, ca, united states	2
+michigan, usa	2
+✈️	2
+córdoba, córdoba, argentina	2
+mashhad, iran	2
+joao pessoa, brazil	2
+arhus, denmark	2
+sint-niklaas, belgium	2
+sherbrooke, qc, canada	2
+navi mumbai, maharashtra, india	2
+herzliya, israel	2
+missoula, mt, united states	2
+tijuana, mexico	2
+florence, italy	2
+fresno, ca	2
+almaty, almaty province, kazakhstan	2
+walnut creek, ca	2
+córdoba, argentina	2
+buffalo, ny, usa	2
+fukuoka, fukuoka prefecture, japan	2
+ny, usa	2
+::1	2
+allahabad, uttar pradesh, india	2
+oregon, usa	2
+orange, ca	2
+trento, province of trento, italy	2
+oldenburg	2
+columbia, sc, united states	2
+colombo	2
+western australia, australia	2
+www	2
+tehran province, tehran, iran	2
+miami beach, fl	2
+albany, ca	2
+москва, город москва, россия	2
+agia paraskevi, greece	2
+birmingham, al, usa	2
+plano, tx, usa	2
+pennsylvania, usa	2
+samara, samara oblast, russia	2
+tampa bay, fl, united states	2
+green bay, wi	2
+london, regno unito	2
+caxias do sul - rs, brasil	2
+belo horizonte - state of minas gerais, brazil	2
+brooklyn, new york	2
+porto alegre - rs, brazil	2
+tabriz, iran	2
+ri	2
+brest, france	2
+greensboro, nc	2
+groningen, netherlands	2
+jersey city, nj, united states	2
+nanjing, jiangsu, china	2
+haarlem, netherlands	2
+reykjavik, iceland	2
+redmond, wa, usa	2
+san carlos, ca, usa	1
+swansea, united kingdom	1
+new york city, usa	1
+brasília - brasilia, federal district, brazil	1
+university of kent, united kingdom	1
+budaiya, bahrain	1
+lupon, davao oriental, davao region, philippines	1
+burgess hill, uk	1
+omsk, russia	1
+behind the glass	1
+grand bahama, the bahamas	1
+minas gerais, brazil	1
+hong kong, singapore	1
+grass valley, ca	1
+kyiv, україна	1
+lagrange point 5	1
+central florida, fl, united states	1
+lauderhill, fl, united states	1
+everett, wa, usa	1
+ferndale, wa, united states	1
+esslingen, germany	1
+tenggarong, kutai kartanegara regency, east kalimantan, indonesia	1
+delakhari	1
+guadalajara, jal., méxico	1
+vilnius	1
+u.s.	1
+nashik, mh	1
+adelaide sa, australia	1
+kushtia, bangladesh	1
+ceres	1
+geneva switzerland	1
+yokohama, kanagawa, japan	1
+brighton	1
+south jersey	1
+milan,italy	1
+ukraine, dnipro	1
+muara wahau, kabupaten kutai timur, kalimantan timur, indonesia	1
+haidian district, china	1
+einsiedeln, switzerland	1
+pemberton, nj, usa	1
+santos lugares, argentina	1
+germania	1
+marietta, ga, united states	1
+dundee, united kingdom	1
+santo domingo, dominican republic	1
+chorley, united kingdom	1
+eindhoven, the netherlands	1
+0.0.0.0/0	1
+rusun dakota 6, kebon kosong, kota jakarta pusat, daerah khusus ibukota jakarta, indonesia	1
+buenos aires, ciudad autónoma de buenos aires, argentina	1
+sibinj, croatia	1
+biddeford, me, united states	1
+pollachi, tamil nadu, india	1
+lancaster, united kingdom	1
+decatur, al	1
+pozuelo, spain	1
+exton, pa	1
+menomonee falls, wi, united states	1
+nagole, hyderabad, telangana, india	1
+rosario	1
+bel air, md, united states	1
+"the cloud"	1
+ethiopia	1
+fort myers beach, fl, united states	1
+kosice, slovakia	1
+beaverton, or, united states	1
+cleckheaton, united kingdom	1
+coral springs, fl	1
+moldova	1
+northwest	1
+athens, hellas	1
+oxford university, united kingdom	1
+laval, canada	1
+germany, berlin	1
+ranchi, india	1
+payneham	1
+luxembourg, luxembourg	1
+redondo beach, ca	1
+so-fla...	1
+encinitas, ca	1
+украина	1
+degerfors, sweden	1
+boca del río, ver., méxico	1
+gateshead, united kingdom	1
+bozeman, montana, united states	1
+south tyrol, italy	1
+istanbul / turkey	1
+cheltenham, united kingdom	1
+rancho santa margarita, ca, usa	1
+hradec kralove, kralovehradecky kraj, czech republic	1
+sorocaba, state of são paulo, brazil	1
+aurora, co	1
+western cape, south africa	1
+18	1
+vancouver bc	1
+somewhere on the internet	1
+hydrabad	1
+barueri, sp, brasil	1
+pallickal, india	1
+dalian, china	1
+latin america	1
+seattle, washington united states	1
+chatham	1
+porttalbot	1
+hollister, ca, usa	1
+kalisz, poland	1
+simferopol, crimea	1
+salzburg, österreich	1
+shogunle, lagos, nigeria	1
+tomsk, томская область, россия	1
+4439 tierra drive, dallas, tx, usa	1
+rockford, il	1
+saxony, germany	1
+blida, algérie	1
+baroda, gujarat, india	1
+iit kanpur, india	1
+perm, perm krai, russia	1
+chatham, medway, united kingdom	1
+litvínov, česko	1
+são luís - maranhão, brasil	1
+winterthur, schweiz	1
+lakebay, wa	1
+rio grande do sul	1
+moon	1
+visoko, bosnia and herzegovina	1
+the hood	1
+harrison, ar, usa	1
+gandhinagar	1
+panglao	1
+stamping ground, ky	1
+veracruz, mexico	1
+ansonia, ct	1
+pakistan town, islamabad district, islamabad capital territory, pakistan	1
+chelsea, london, uk	1
+osaka,japan	1
+rodez, france	1
+republic of texas	1
+natick, ma	1
+nantwich, united kingdom	1
+aligarh, uttar pradesh, india	1
+fairfield bay arkansas	1
+netizen	1
+pryor, ok	1
+internet cloud	1
+kobe-shi, japan	1
+fairbanks north star borough, ak, united states	1
+agra, uttar pradesh, india	1
+tautoro, kaikohe, new zealand.	1
+bryn mawr, pa, united states	1
+renens, suisse	1
+weifang, china	1
+keene, nh, usa	1
+sankt-peterburg, город санкт-петербург, россия	1
+barnsley, united kingdom	1
+myrtle beach, sc	1
+surprise, az, usa	1
+kansas, united states	1
+phoenix, az (usa)	1
+shahriar county, tehran province, iran	1
+ilford ig2, united kingdom	1
+close to a coffee machine.	1
+3926 northwestern pike, winchester, va, united states	1
+gilbert, az, united states	1
+bloomington, mn, united states	1
+greece, athens	1
+parkland, fl	1
+maidstone, united kingdom	1
+novosibirsk, новосибирская область, russia	1
+laveen, phoenix, az, usa	1
+poughkeepsie, ny	1
+redcar	1
+vijfhuizen, netherlands	1
+kingsport, tn	1
+liverpool, england	1
+leasburg, mo, united states	1
+glendora, ca	1
+deltona, fl, united states	1
+yes	1
+st. catharines, on, canada	1
+palm bay, fl	1
+downtown sunnyvale	1
+viet nam projectvaults joint stock company, hà nội, việt nam	1
+taipei, republik tiongkok	1
+wegberg, germany	1
+leeds	1
+molndal, sweden	1
+florence, fi, italy	1
+пенза, россия	1
+holmes beach, fl, united states	1
+seville, sevilla, spain	1
+mullana, haryana, india	1
+boulder city, nv, united states	1
+swindon, united kingdom	1
+madeira, portugal	1
+peterborough, on, canada	1
+oviedo, florida united states	1
+potsdam	1
+palette town, koto, tokyo, japan	1
+lancaster, pennsylvania	1
+austin, texas, united states	1
+turkey istanbul	1
+usaf academy, 科罗拉多州美国	1
+são paulo - état de são paulo, brésil	1
+bajmok, serbia	1
+earth, alpha centauri	1
+algarve, portugal	1
+poznań	1
+ahmadabad, gujarat, india	1
+western australia	1
+godalming, united kingdom	1
+nahar amrit shakti, chandivali, powai, mumbai, maharashtra, india	1
+hong kong and new york	1
+san mateo, ca 94402, united states	1
+india,chennai	1
+belo horizonte - mg, brazil	1
+utc -5:00	1
+manolo fortich, bukidnon, northern mindanao, philippines	1
+poland, ohio, stany zjednoczone	1
+sao paulo / brazil	1
+regus business center one market street suite 3658 san francisco, california 94105	1
+babol, mazandaran province, iran	1
+tlv, israel	1
+quezon city, philippines	1
+18 hough green road	1
+redford, mi	1
+cincinnati, ohio united states	1
+hanna, wy	1
+germany, saarbrucken	1
+var, france	1
+potsdam, deutschland	1
+worcester, mass, united states	1
+nilphamari district, rangpur division, bangladesh	1
+peshawar, khyber pakhtunkhwa, pakistan	1
+klaipėda, lithuania	1
+london, regatul unit	1
+washington, d.c.	1
+eastern us	1
+giza street, ad doqi a, dokki, egypt	1
+rajshahi medical, rajshahi, rajshahi division, bangladesh	1
+bournemouth, uk	1
+londonderry, nh, united states	1
+lizton, in, united states	1
+huntsville, al, united states	1
+malabe, sri lanka	1
+plymouth, minnesota, united states	1
+the library	1
+sarasota, fl	1
+hải phòng or hồ chí minh	1
+rosario, argentina	1
+cheney, wa	1
+binghamton, ny, usa	1
+santo andre, brazil	1
+galiza	1
+/home/okihara/	1
+ashmore, united kingdom	1
+third stone from the sun	1
+boxmeer, nederland	1
+pittston, pa, united states	1
+huilongguan, beijing, china	1
+sarajevo, föderation bosnien und herzegowina, bosnien und herzegowina	1
+bradford, canada	1
+magrathea	1
+rambukkana, sri lanka	1
+ukraine, kharkiv	1
+gujarat	1
+rio claro - brazil	1
+киев, город киев, украина	1
+bagerhat, bangladesh	1
+ibadan nigeria	1
+iit area, mumbai, maharashtra, india	1
+liege, belgium	1
+oceanside, ca, usa	1
+police, polska	1
+airstrip 1	1
+kuwait city, al asimah governate, kuwait	1
+ustka, polen	1
+bonaduz, schweiz	1
+dnipropetrovsk, ukraine	1
+heilbronn, deutschland	1
+jeddah, saudi arabia	1
+weihai, china	1
+somewhere on planet earth	1
+fredericton, nb, canada	1
+stockport, uk	1
+princeton, nj, united states	1
+ukraine, dniprodzerzhyns'k	1
+sherbrooke, canada	1
+le mans, france	1
+federal way, wa	1
+sammamish, wa	1
+del aire, ca, united states	1
+czech republic, europe	1
+cedar breaks, iron county, utah, united states	1
+vancouver, британская колумбия, canada	1
+baulon, france	1
+tijuana, baja california, mexico	1
+fishland	1
+lake helen, fl	1
+västerås, sweden	1
+naperville, il, usa	1
+krasnoyarsk, russia	1
+wembley c: ha04hp london ph no: 441158880601	1
+brașov, romania	1
+kaunas, republic of lithuania	1
+neheim, arnsberg, germany	1
+lamongan, jawa timur, indonesia	1
+lagos and dakar	1
+jose panganiban, bicol, philippines	1
+havana, la habana, cuba	1
+中国beijing shi	1
+great yarmouth, united kingdom	1
+farmington hills, mi	1
+bangladesh - dubai - united arab emirates	1
+blacksburg, va, united states	1
+ariana, tunis, tunisia	1
+university of california, san diego, la jolla, ca, usa	1
+regensburg, deutschland	1
+murfreesboro, tn	1
+west coast, north america	1
+ee. uu.	1
+the great southern land	1
+beverly, ma	1
+nipomo, ca	1
+mansfield, oh, united states	1
+lusaka, lusaka province, zambia	1
+metro boston, ma area	1
+москва, russia	1
+gulberg-3 , lahore , pakistan	1
+lima, departamento de lima, perú	1
+apex, nc	1
+eastern states of australia, australia	1
+boyertown, pennsylvania, united states	1
+high school	1
+belvedere island, belvedere tiburon, ca, united states	1
+austin tx	1
+mashhad	1
+#include world.h	1
+cikutra, kota bandung, jawa barat, indonesia	1
+under your bed	1
+vila de gràcia, barcelona, spanien	1
+utopia	1
+pensacola, florida, usa	1
+vila nova de gaia, portugal	1
+woodland hills, los angeles, ca, usa	1
+billingham, united kingdom	1
+rousset, france	1
+sioux city, iowa, united states	1
+kalundborg, danmark	1
+brusque - sc - brazil	1
+earth, sol system, sector zz9 plural z alpha, milky way galaxy, universe	1
+bloomington, in, usa	1
+yulin, china	1
+pagadian city, zamboanga del sur, philippines	1
+east bethel, mn, united states	1
+in your bu**	1
+manila	1
+github.com/sneurlax	1
+ada, mi	1
+frankfurt am main, allemagne	1
+dunedin	1
+feldkirch, austria	1
+shiraz, fars province, iran	1
+stavanger, norway	1
+honolulu	1
+vallejo, ca	1
+minneapolis, minnesota, united states	1
+toronto canada	1
+uberlândia, brazil	1
+http://bitcall.org	1
+frederiks allé 28, aarhus municipality, denmark	1
+embu, kenya	1
+91 bay dr, bay point, ca, usa	1
+khulna division, bangladesh	1
+milwauke wi, usa	1
+hades	1
+guwahati	1
+bathinda, punjab, india	1
+md	1
+arlington, tx	1
+timisoara, romania	1
+dallas, texas united states	1
+amsterdam avenue, new york, ny, usa	1
+aix en provence, france	1
+bolton, united kingdom	1
+ga, usa	1
+piestany, slovakia	1
+monterrey, nuevo leon, mexico	1
+antwerpen, belgium	1
+colombia, medellín, antioquia, colombia	1
+pensilvanija, združene države amerike	1
+calgary alberta	1
+tunisie	1
+taipei,taiwan	1
+jalan raya kebobang, kebobang, kebobang, wonosari, malang, jawa timur, indonesia	1
+bydgoszcz, poland	1
+monterrey, nuevo león, méxico	1
+catalunya, barcelona.	1
+pacific time zone	1
+karlsruhe	1
+douglas, isola di man	1
+jalan sultan ahmad shah georgetown george town penang malaysia	1
+cotia - sp	1
+warrington, united kingdom	1
+josipa bana jelačića, kiseljak, federation of bosnia and herzegovina, bosnia and herzegovina	1
+around milwaukee	1
+eindhoven	1
+moscow, id, united states	1
+san vicente san jacinto pangasinan phiilipines	1
+u wish u knew	1
+stade, deutschland	1
+la serena, chile	1
+middle east	1
+champaign, il	1
+málaga, españa	1
+bella vista, ar, united states	1
+san benedetto del tronto, province of ascoli piceno, italy	1
+heaven for the climate. hell for the company.	1
+bad säckingen, bad säckingen, deutschland	1
+hull, uk	1
+villahermosa, tab., méxico	1
+https://etherscan.io/address/0xc94770007dda54cf92009bff0de90c06f603a09f#code ,	1
+denton, tx, united states	1
+indus	1
+mexico city, cdmx, méxico	1
+nymegen, netherlands	1
+yaoundé, cameroun	1
+prince george, canada	1
+coventry, uk	1
+volta redonda, brazil	1
+ernakulam	1
+eureka, mo, united states	1
+albany, ny, usa	1
+koh samui ko samui surat thani thailand	1
+"bang"alore (india)	1
+1au	1
+lubbock, tx, united states	1
+springfield , nj	1
+sb	1
+日本大阪府ōsaka-shi	1
+queensland, australia	1
+new brunswick, nj, united states	1
+pacific northwest trail, port angeles, wa, united states	1
+portland, me	1
+casablanca, grand casablanca, morocco	1
+the world is flat	1
+veszprém, hungary	1
+terra	1
+belbroughton, uk	1
+the hague (nl)	1
+lafayette, in	1
+jerusalem, palestine	1
+none of your business	1
+münsingen, deutschland	1
+0.0.0.0	1
+riga	1
+manila, metro manila, philippines	1
+granada, spain	1
+pensacola, fl	1
+barranquilla - atlántico, colombia	1
+aruppukkottai, india	1
+west java, indonesia	1
+where the sidewalk ends	1
+agra, india	1
+chios, greece	1
+martha's vineyard	1
+khulna, khulna division, bangladesh	1
+nuuk, greenland	1
+bengaluru, mandya, mysore india	1
+jamshoro society, jamshoro, pakistan	1
+wilmington nc	1
+██████, ma, usa	1
+halifax ns canada	1
+i'm not telling you my location; i thought we were playing hide and seek!	1
+weber state university	1
+samobor, croatia	1
+aarhus	1
+georgetown	1
+newfoundland and labrador, canada	1
+haslett, mi	1
+district of columbia, dc, united states	1
+avilés, asturias, españa	1
+st. petersburg, russian federation	1
+girona, gerona, españa	1
+gainesville, fl, usa	1
+203 rue des hirondelles, la prairie, quebec, j5r5k4, canada	1
+canada corners	1
+battlestation	1
+bronx, ny, united states	1
+al kiswah, syria	1
+tucuman, argentina	1
+durant, ok	1
+giv'atayim, israel	1
+princeton, new jersey	1
+buena, nj	1
+rio de janeiro, brasilien	1
+notre dame, in	1
+new jersey, ee. uu.	1
+toronto, canada / verona, italy	1
+nugegoda, sri lanka	1
+rancho cordova, ca, united states	1
+north west england	1
+amarillo, tx, united states	1
+central europe	1
+vienna, va	1
+bangkok, 泰国	1
+townsville, australia	1
+chiang mai, thailand	1
+krung thep maha nakhon thailand	1
+kamakura-shi, japan	1
+maastricht, países bajos	1
+lincoln park, chicago, il, united states	1
+ekaterinburg, russia	1
+hochiminh city, vietnam	1
+jena, deutschland	1
+abu dhabi, united arab emirates	1
+enschede, netherlands	1
+nabha, india	1
+tunbridge wells, united kingdom	1
+chippendale, new south wales, australia	1
+new jersey, usa, exit 131	1
+inside your git repo... git.ninja	1
+foligno, italy	1
+minden, ne	1
+usa/italy	1
+me, usa	1
+carson, ca, united states	1
+hubli, india	1
+vienna austria	1
+nova gorica, slovenia	1
+minneapolus	1
+aperture science	1
+university of oulu	1
+surat	1
+0,0	1
+legion of doom headquarters	1
+athens, oh, usa	1
+faroe islands	1
+swansea	1
+kingston, ontario, canada	1
+not behind you	1
+jungle of optimization	1
+portorož, piran, slovenia	1
+spain , basque country ,  bilbao	1
+colorado 74, evergreen, co, usa	1
+são paulo, state of são paulo, brasil	1
+aluva, kerala, india	1
+antony, france	1
+พัทยา ชลบุรี	1
+jalandhar, punjab, india	1
+tim booked two	1
+husum, germany	1
+ancona, italy	1
+morelia, ejido santa maria, santa maría atzompa, mexico	1
+russia, saratov	1
+bassum, deutschland	1
+stanford and indonesia	1
+venice, los angeles, ca, united states	1
+west mids, uk	1
+долгопрудный, московская область, россия	1
+tam thanh, phú quý, bình thuận, việt nam	1
+austin, austin, tx, usa	1
+madison, al	1
+singapore, hong kong, london	1
+antwerp	1
+bikini bottom	1
+saint-louis, france	1
+no, where	1
+ventura, ca, usa	1
+penang, malaysia	1
+cali, colombia	1
+wilmington, nc, united states	1
+brest, belarus	1
+southampton, uk	1
+emporia, ks	1
+wagenberg, netherlands	1
+bacoor, calabarzon, philippines	1
+hampshire, united kingdom	1
+greater vancouver, bc, canada	1
+friburgo, svizzera	1
+eindhoven, nederland	1
+1047 west 2nd street, san bernardino, california, estados unidos	1
+new orleans, la usa	1
+41.798828, -88.137083‎	1
+mesa, arizona, united states	1
+felton, ca	1
+republic of belarus	1
+savannah, ga	1
+pimpri chinchwad, india	1
+stony brook, ny, usa	1
+mighican	1
+hampshire, england	1
+morristown, nj	1
+東京, 日本	1
+60187	1
+603	1
+the universe	1
+salem, tamil nadu, india	1
+burdwan, west bengal, india	1
+bulgaria, europa	1
+litchfield park, az 85340, usa	1
+your tilted gulfstream g650	1
+hey bubs "phonesaber unlock" google play store free no ads!	1
+lôg nguyễn thiện thuật, phường 1, 第三区胡志明区越南	1
+knoxville, tennessee united states	1
+leamington spa, united kingdom	1
+il, united states	1
+kampala, uganda	1
+ensenada, baja california, mexico	1
+kyiv, украина	1
+kakanj, federation of bosnia and herzegovina, bosnia and herzegovina	1
+nainital, uttarakhand, india	1
+assiut governorate, egypt	1
+lyon france	1
+киев	1
+south hadley, ma, usa	1
+st-petersburg, russia	1
+nusajaya, johor, malaysia	1
+vannes, brittany, france	1
+tulsa ok	1
+vijayawada	1
+si, mali	1
+walnut creek, ca, usa	1
+gurgoan, india	1
+cologne, deutschland	1
+zimbabwe, masvingo	1
+orpington, kent, united kingdom	1
+near karlsruhe, germany	1
+manassas, va, united states	1
+calicut, india	1
+beijing, beijing, china	1
+dois vizinhos - pr, brasil	1
+solana beach, ca, usa	1
+bosna i hercegovina	1
+baden-württemberg, germany	1
+hamilton, nj	1
+brossard, canada	1
+johannesburg	1
+centennial, co	1
+laval, qc h7n 3w4, canada	1
+harrison , nj	1
+mérida, yucatan, mexico	1
+delft, the netherlands	1
+fortaleza, brazil	1
+canary islands, spanien	1
+blackpool, united kingdom	1
+gandhinagar, gujarat 382355, india	1
+cuddapah, andhra pradesh, india	1
+columbus, ga, united states	1
+aïn-defla, algérie	1
+niterói - rio de janeiro, brazil	1
+corvallis, mt, united states	1
+beyşehir, turkey	1
+barcelona (catalonia)	1
+kansas city mo	1
+freiburg, germany	1
+farnham, united kingdom	1
+tenerife, canary islands, spain	1
+redondo beach, california	1
+nagercoil, india	1
+stanford, california	1
+your favorite ide	1
+dawson creek, bc, canada	1
+verona, vr, italia	1
+some place	1
+reynosa, mexico	1
+kanata	1
+oisterwijk, netherlands	1
+antalya, turkey	1
+mera.one	1
+swaziland - dubai - united arab emirates	1
+perm, russia	1
+sankt leon-rot, germany	1
+.:…·•°	1
+shibafu	1
+czech republic, central europe	1
+glen allen, va, usa	1
+at my forum oliviasrodriguez.nstars.org	1
+roses street, lungsod quezon, kalakhang maynila, pilipinas	1
+dharuhera, haryana, india	1
+wiesbaden, germany	1
+the pacific northwest	1
+mantes-la-ville, france	1
+barnesville, mn, united states	1
+lansing, il, united states	1
+the nineteenth byte	1
+san fransisco, ca	1
+australia, wa	1
+west kelowna, bc, canada	1
+malaysia.kuala terengganu	1
+patiala, punjab, india	1
+west jefferson, nc, united states	1
+knoxville, tn, united states	1
+monaco-monte-carlo, monaco-ville, monaco	1
+kenyatta avenue, nairobi, kenya	1
+kænland	1
+northville, mi	1
+banff, canada	1
+project shrine maiden	1
+santa barbara, ca 93105, united states	1
+5 / f, starworld hotel, avenida da amizade, macau	1
+north bergen, nj, united states	1
+žilina, slovakia	1
+aveiro, portugal	1
+134, jalan merbok 2, taman bunga blossom, 70100 芙蓉 negeri sembilan, 马来西亚	1
+karla marksa, 19, bykovo, moskovskaya oblast, russia, 140150	1
+arlington, tn 38002, united states	1
+austria, vienna	1
+the twilight zone	1
+carpinteria, ca usa	1
+the north pole	1
+sydney cbd, new south wales, australia	1
+userland	1
+hochdorf, schweiz	1
+pretoria	1
+10 yangan dr, beresfield nsw 2322	1
+stackoverflow	1
+fes-boulemane, morocco	1
+sunnyvale, ca, usa	1
+south san francisco, ca, usa	1
+côte d'ivoire	1
+kanata, ottawa, on, canada	1
+tamil nadu	1
+essen, deutschland	1
+dunedin, new zealand	1
+north point, hong kong	1
+saint-petersburg	1
+foster city, ca 94404, usa	1
+southern hemisphere	1
+barmer, rajasthan, india	1
+shahpura (bhilwara)	1
+murom, russia	1
+campo grande - mato grosso do sul, brazil	1
+russia, kirovo-chepetsk	1
+angus, on, canada	1
+campinas, state of são paulo, brazil	1
+bellingham, wa, united states	1
+resistencia, argentina	1
+starnberg, germany	1
+ashland, oh, usa	1
+floripa, brazil	1
+present simple	1
+aalst, belgium	1
+nahariya, israel	1
+penticton, canada	1
+prosperity, sc	1
+pluto	1
+ipswich, uk	1
+jacksonville, fl	1
+cze	1
+jihlava, česká republika	1
+salem, in, usa	1
+arth, switzerland	1
+aytos, bulgaria	1
+bratislava	1
+roseland, nj	1
+london, spain & estonia	1
+socorro, nm	1
+aschaffenburg, germany	1
+des moines, iowa, estados unidos	1
+meanwhile city	1
+ecuador	1
+lanett, al, united states	1
+vagabond	1
+mexico city, cdmx, mexico	1
+cranston, ri, usa	1
+porto alegre, rs, brasil	1
+bay city, mi, usa	1
+lincoln, ca, united states	1
+barcelona, catalonia, spain	1
+or	1
+0x00000000	1
+dewas, india	1
+lexington, ma	1
+culver city, ca	1
+mendoza, argentina	1
+gold coast, australia	1
+orem, ut	1
+bath, uk	1
+soweto	1
+reading, pa, united states	1
+forest row, united kingdom	1
+south america	1
+canberra, australian capital territory, australia	1
+tunis	1
+abidjan	1
+back alley	1
+malibu, ca, united states	1
+pekanbaru	1
+nashville tn	1
+nerdvana	1
+boom, belgium	1
+lynn, ma, united states	1
+at the farthest of horizon...	1
+baia mare, romania	1
+some where some place.	1
+sf bay area, ca	1
+chiclayo	1
+portland	1
+greater new york city area	1
+viedeň, rakúsko	1
+in front of my computer	1
+san luis obispo, ca, usa	1
+spring green, wi	1
+vicenza, italy	1
+tezpur	1
+tauremornalómë	1
+tunísia	1
+atlanta, usa	1
+hudson, wi, united states	1
+redwood city, ca, united states	1
+leeds, al	1
+lubbock, tx	1
+日本tōkyō-to	1
+odessa, одесская область, украина	1
+sorocaba - state of são paulo, brazil	1
+guwahati,assam,inida	1
+edinburgh, scotland, uk	1
+earth universe c133 dimension 8	1
+san francisco county, ca, united states	1
+yaounde, cameroon	1
+duszkowo, obwód miński, białoruś	1
+israel bak street, telavive, israel	1
+denver tech center, greenwood village, co, united states	1
+st.-nazaire, france	1
+grand rapids, mi, usa	1
+são carlos, sp, brasil	1
+medford, nj, united states	1
+hendersonville, nc, usa	1
+sugar land, tx, united states	1
+east london, eastern cape, south africa	1
+tempe, az, usa	1
+orange county, ca, united states	1
+globallshare	1
+carrollton, tx	1
+soesterberg, netherlands	1
+delhi ncr, india	1
+oakland, california, united states	1
+lancashire, united kingdom	1
+cryptospace	1
+new hampshire, united states	1
+west lake, hangzhou, zhejiang, china	1
+shah alam, malaysia	1
+nayarit, méxico	1
+stamford, ct, united states	1
+manhattan, new york, ny, usa	1
+turku, suomi	1
+alabama 59, gulf shores, al, usa	1
+flanders	1
+navarre, fl	1
+iași, românia	1
+davis, ca	1
+bay area, ca	1
+son la, vietnam	1
+гомель, гомельская область, беларусь	1
+gumi-si, gyeongsangbuk-do, south korea	1
+ambalangoda, sri lanka	1
+pyrmont nsw, australia	1
+karaj, iran	1
+durham, kansas	1
+rogers, ar	1
+abuja, nigeria	1
+mont kiara kuala lumpur federal territory of kuala lumpur malaysia	1
+mountainside, nj	1
+faridabd	1
+santa rosa, ca	1
+dearborn, mi	1
+109 tôn đức thắng, hanoi, vietnam	1
+bern, schweiz	1
+north west	1
+jesolo, ve, italia	1
+london, on, canada	1
+vršac, војводина	1
+state of santa catarina, brazil	1
+server	1
+la prairie, canada	1
+university of cambridge, cambridge, united kingdom	1
+barbados	1
+maryland, united states of america	1
+st. john's, canada	1
+leuven, belgië	1
+suburb of san francisco	1
+newport coast drive, newport beach, ca, united states	1
+kettering, united kingdom	1
+ny, ny	1
+north east	1
+genk, belgium	1
+clayton, ca	1
+teluk intan	1
+staffordshire, united kingdom	1
+roermond, netherlands	1
+city of r'lyeh	1
+madrid, spanien	1
+52 florabunda lane lefevres corner nsw	1
+thailand route 35, ตำบล แพรกหนามแดง อำเภอ ปากท่อ ราชบุรี ประเทศไทย	1
+mmm	1
+dubai, uae	1
+manahawkin, stafford township, nj, usa	1
+ростов-на-дону, ростовская область, россия	1
+rabat, maroc	1
+preston	1
+tasmania	1
+midtown, manhattan, new york, ny, usa	1
+city 17	1
+wien, austria	1
+scottsdale, arizona	1
+birmingham , united kingdom	1
+nimes, france	1
+nis, serbia	1
+matthews, nc	1
+surrey, uk	1
+carmarthenshire, uk	1
+tbilisi	1
+philadelphia, pennsylvania, usa	1
+vapi, gujarat, india	1
+västerås, sverige	1
+half moon bay, ca	1
+kerkrade, netherlands	1
+thrissur, india	1
+nh seacoast	1
+mount vinson, antarctica	1
+bogotá colombia	1
+mountain standard tribe	1
+thành phố hồ chí minh, hồ chí minh, việt nam	1
+panama city, panama	1
+aus	1
+menen, belgium	1
+pokhara, mid-western development region, nepal	1
+good ol us of a	1
+london/cambridge	1
+black pearl, earth	1
+va and ct	1
+mt dora, fl, united states	1
+awkward, new zealand	1
+reykjavík	1
+raymore, mo, united states	1
+ukraine, kyivs'ka oblast	1
+pascalinux	1
+weston, fl, united states	1
+covington, ky 41011	1
+san antonio, tx, usa	1
+ripon, united kingdom	1
+victoria,bc,canada	1
+krsk	1
+thale, germany	1
+unitd stuts of murka	1
+caltech, pasadena, ca, united states	1
+the kingdom of arendelle	1
+va, united states	1
+newark, ca, united states	1
+the world	1
+catania, italy	1
+chermahin	1
+burnaby, canada	1
+washington-arlington-alexandria, dc-va-md-wv	1
+makkah, saudi arabia	1
+manhattan, ny	1
+friuli venezia giulia	1
+yorba linda, ca, united states	1
+new york, birleşik devletler	1
+saint paul, mn	1
+ismailia, egypt	1
+europe/berlin	1
+on the internet	1
+the void	1
+reston, va, usa	1
+camborne, uk	1
+americas	1
+teresópolis, rj, brasil	1
+araraquara, brazil	1
+bogota	1
+decatur, il, united states	1
+missouri, usa	1
+atx, usa	1
+westlands, nairobi, kenya	1
+cartagena de indias, colombia	1
+hofheim am taunus, deutschland	1
+shady cove, or, united states	1
+st. paul, mn, united states	1
+furshail, bangladesh	1
+θεσσαλονίκη, ελλάδα	1
+sussex	1
+nigeria lagos	1
+port moresby, national capital district, papua new guinea	1
+deep woods, eu	1
+brandenburg	1
+ongole, andhra pradesh, india	1
+netherlands / spain	1
+s. korea/germany/china	1
+omaha, ne, united states	1
+ny	1
+silver spring, md, united states	1
+ipatinga - mg, brasil	1
+yogyakarta city, special region of yogyakarta, indonesia	1
+west bengal, india	1
+guangzhou, 广东省 china	1
+sudbury, ontario, canada	1
+coon rapids, mn, united states	1
+signal hill, ca	1
+parker, co, united states	1
+tlv	1
+area 51	1
+bellevue, washington, usa	1
+astoria	1
+natal, brazil	1
+new england	1
+kitchener, canada	1
+ballarat, victoria, australia	1
+phayao thailand	1
+hertfordshire, reino unido	1
+bloemfontein, south africa	1
+riviera maya, mexico	1
+gaya, bihar, india	1
+georgia, tbilisi	1
+ie	1
+https://cryptonews.com.au/	1
+seattle, wash, united states	1
+cold spring harbor, ny	1
+remote, global	1
+pleasanton, ca	1
+segmentation fault	1
+tournai, belgium	1
+granada, españa	1
+wenatchee, wa	1
+ellenton, fl	1
+los angeles county, ca, united states	1
+chandigarh,india	1
+boca raton, fl, usa	1
+são paulo - brazil	1
+paris - france	1
+banha, egypt	1
+davis, ca, usa	1
+taipei city taiwan	1
+down under	1
+uusimaa, suomi	1
+anantapur, andhra pradesh, india	1
+augusta, ga, united states	1
+jaipur,rajasthan,india	1
+port clinton, ohio, united states	1
+120 george street, sullivan, mo, united states	1
+united kingdom, remote	1
+sacramento, ca, usa	1
+sliema, malta	1
+miami florida	1
+san juan, argentina	1
+maidenhead, united kingdom	1
+sell	1
+unklnow	1
+germany (weiterstadt)	1
+поребрик сити	1
+dhaka university, dhaka, dhaka division, bangladesh	1
+tempe, az, united states	1
+tehran,iran	1
+mesilla, nm	1
+old world	1
+northern california, ca, united states	1
+katwijk, netherlands	1
+seoul, republic of korea	1
+hronov, czech republic	1
+atlanta, georgia, united states	1
+virtual	1
+web 3.0	1
+nagoya, aichi prefecture, japan	1
+stuart, fl	1
+surgut, ханты-мансийский автономный округ, россия	1
+reggio emilia, re, italia	1
+halifax, nova scotia, canada	1
+львів, львовская область, ukraine	1
+taranto, ta, italy	1
+renfrewshire, united kingdom	1
+hollywood	1
+galway city, ireland	1
+chicagoland	1
+burgas	1
+suzhou, jiangsu, china	1
+franca, sp, brazil	1
+ames, ia, united states	1
+pequot lakes, mn	1
+na	1
+nîmes, france	1
+tripping in vr	1
+greater noida, india	1
+vancouver, wa, usa	1
+arusha, tanzania	1
+general trias, cavite, philippines	1
+planet earth (for now...)	1
+sherbrooke, québec, canada	1
+dallas	1
+valhala	1
+lake oswego, or	1
+hannover, germany	1
+huntington beach, ca, united states	1
+bhilai, chhattisgarh, india	1
+montréal, canada	1
+szeged, hungary	1
+palmas	1
+lamachaur, pokhara, नेपाल	1
+cuba, la habana, habana del este, guanabo	1
+hildesheim, germany	1
+setif, algeria	1
+gaithersburg, md	1
+nowhere now here	1
+td30h27	1
+medellín, antioquia, colombia	1
+vitoria-gasteiz, españa	1
+chișinău, moldova	1
+27.4698 153.0251	1
+ternopil', ukraine	1
+remote ok	1
+monza	1
+hillsborough, nc, united states	1
+ashburn, va	1
+karlstad, sweden	1
+mumbai india	1
+abbottabad pakistan	1
+philadelphia pa 19125.usa	1
+ashland, ky	1
+nrw, germany	1
+perth western australia, australia	1
+ryazan', russia	1
+somewhere in italy	1
+genval, belgium	1
+kathmandu nepal	1
+namur, belgium	1
+limassol, cyprus	1
+russia, kaluga	1
+buenos aires, caba, argentina	1
+shiraz, iran	1
+lombardy, italy	1
+hemmingen, niedersachsen, germany	1
+dhaka university campus, dhaka, dhaka division, bangladesh	1
+sehaibzoof@gmail.com	1
+berlin (ger)	1
+jakarta, republic of indonesia	1
+silkeborg, denmark	1
+san francisco bay area, california, usa	1
+norwalk, ct	1
+st. clair shores, mi	1
+chantilly, va, usa	1
+virtual memory	1
+ellicott city, md	1
+!	1
+71.212.117.218	1
+hanoi, việt nam	1
+dawson creek, canada	1
+albuquerque	1
+philadelphia pa	1
+barcelona, espanha	1
+jonesboro, ga, united states	1
+vaikom, kerala, india	1
+shanghai, 上海市 china	1
+praha, czech republic	1
+kiddle	1
+orange, france	1
+poughkeepsie, ny, usa	1
+muenchen	1
+edmonds, wa	1
+norfolk county canada	1
+广州	1
+portland, me, usa	1
+santander, españa	1
+welling, uk	1
+4043 linkwood drive, houston, tx, usa	1
+seal beach california and carson california usa	1
+abbas abad, mazandaran province, iran	1
+blumenau - sc	1
+weingarten (baden), deutschland	1
+niagara falls, on, canada	1
+krebs, ok	1
+senlis, france	1
+anambra state nigeria	1
+redmond, washington, united states	1
+chandgaon residential area, chittagong, bangladesh	1
+greenville, sc, united states	1
+europe, gmt+1	1
+cuiabá - state of mato grosso, brazil	1
+kiryat ono, israel	1
+6668f6ef959829f18a7e4b9290cafb2fb3fdb91767fbb942ae269bee2abdf0c7	1
+rourkela, odisha, india	1
+iit delhi main road, hauz khas, new delhi, delhi, india	1
+canandaigua, ny, usa	1
+great salt lake, ut, united states	1
+nw usa	1
+left coast	1
+quảng trị, việt nam	1
+walldorf, germany	1
+mb, canada	1
+tulsa, ok, usa	1
+bolzano, bz, italia	1
+forest of dean, united kingdom	1
+murmansk, russia	1
+wilbraham, ma, united states	1
+jilin, china	1
+corunna, spain	1
+des moines, ia	1
+mohanganj upazila, netrokona, bangladesh	1
+cosmos	1
+kiyev, город киев, украина	1
+zlin, czech republic	1
+hyderabad, pakistan	1
+hamedan, hamadan province, iran	1
+canada, quebec	1
+medellín, medellin, antioquia, colombia	1
+seychelles	1
+china江苏省nanjing	1
+wakefield, ri	1
+roseburg, or, usa	1
+northfield, il, united states	1
+porto alegre, rio grande do sul brazil	1
+earth...i think	1
+中国江苏省nanjing shi	1
+nj, 美国	1
+glendale, ca, united states	1
+laguna niguel, ca, usa	1
+breaux bridge, la, united states	1
+kaduwela, sri lanka	1
+vina del mar, chile	1
+china shanghai	1
+fremont, ca	1
+bhestan, udhna, surat, gujarat, india	1
+china北京市beijing shi	1
+wilkes-barre, pa, united states	1
+hawaii, united states	1
+st. neots, united kingdom	1
+galicia	1
+charleston, w.v.	1
+spring hill, fl, united states	1
+novosibirsk, россия	1
+rangpur, bangladesh	1
+ok	1
+stanford, ca, united states	1
+paris suburbs	1
+брест, брестская область, беларусь	1
+milwaukee, wi, usa	1
+pensacola, fl, united states	1
+leamington, united kingdom	1
+nueva san salvador, el salvador	1
+holland	1
+batam city, riau islands, indonesia	1
+zamboanga, zamboanga peninsula, philippines	1
+cairo, ga, united states	1
+virgo supercluster	1
+honolulu, hi, united states	1
+106 - godavripark soc yogichowk surat gujarat india pin-35010	1
+méxico d.f., méxico	1
+george town, cayman islands	1
+virginia beach, virginia united states	1
+j.p.l	1
+mongolia	1
+whistler, bc, canada	1
+ams|nrt|txl|yul	1
+adobe research, san jose, ca, usa	1
+salt spring island	1
+eurasia	1
+palm beach gardens, fl	1
+bolzano, italy	1
+mariowii:world1	1
+sandy eggo	1
+tripura, india	1
+behrenstraße 1c، برلین، آلمان	1
+kanakapura road, harohalli, karnataka, india	1
+hangzhou,china	1
+bedford, tx, usa	1
+camden, nj, united states	1
+herbitzheim, france	1
+taguig city, ncr, philippines	1
+bellevue, ne, united states	1
+midwest usa	1
+marseille, france	1
+world citizen	1
+::1, tunisia	1
+auburn, ca	1
+hortolândia, sp, brasil	1
+ho chi minh	1
+karad, maharashtra, india	1
+washington d.c., united states	1
+tutermaa tee, tutermaa, harju maakond, eesti	1
+česká republika	1
+america/new_york	1
+north tonawanda, ny, usa	1
+distributed / decentralized	1
+downtown burbank	1
+northeast us	1
+earth/america_north/pennsylvania/venango-county/...	1
+zúrich, suiza	1
+texas high plains	1
+dortmund, cologne	1
+campo largo - pr, brasil	1
+incheon, south korea	1
+santa monica ca  usa	1
+massachusetts usa	1
+pale blue dot, europe, germany	1
+segui, entre ríos, argentina	1
+interreto	1
+pijnacker, the netherlands	1
+bhandup west, mumbai, maharashtra, india	1
+greenwich, ct	1
+moscow, russian federation	1
+3rd floor, no 44, sks plaza, 17th main, 100 ft road, 4th block, koramangala, bengaluru, karnataka 56	1
+holla, norway	1
+alta gracia, cordoba, argentina	1
+nigerian law school, eti-osa, lagos, nigeria	1
+forest hill, san francisco, ca, usa	1
+kpie	1
+iran- tehran- sbu	1
+san francisco, ca, united states, ringwood nj	1
+hadera, israel	1
+dubaï - émirats arabes unis	1
+台灣	1
+harare, harare province, zimbabwe	1
+united kingdom/south africa/australia	1
+manresa	1
+são josé dos campos, brazil	1
+manchester, ky, united states	1
+são josé dos campos, sao jose dos campos - state of são paulo, brazil	1
+new york, new york	1
+windsor, canada	1
+valmiera, latvia	1
+sverige	1
+valparaíso, chile	1
+south jordan, ut, united states	1
+palm desert ca	1
+"/scriptalert(1)/script	1
+rochester, ny, united states	1
+klang, selangor, malaysia	1
+trumbull, ct	1
+brazil / france	1
+u.k.	1
+المملكة العربية السعودية	1
+imo state, nigeria	1
+undisclosed	1
+netherland, tn	1
+ulan bator, mongolia	1
+buenos aires	1
+kota kinbalu, malaysia	1
+bonita springs, fl	1
+united kingdom, gstq	1
+ra = 12:51.4, dec = +27:07 (2000.0)	1
+dumaguete city, philippines	1
+faisalabad, pakistan	1
+shelton, ct, usa	1
+raipur, chhattisgarh, india	1
+baltimore md	1
+rajahmundry, andhra pradesh, india	1
+new milford, ct	1
+reutlingen, germany	1
+kent, ohio	1
+alda, ne, usa	1
+the woodlands, texas, united states	1
+miami, florida, usa	1
+plantation, fl, united states	1
+tyumen, russia	1
+chengdu, 四川省中国	1
+pathum wan, thailand	1
+puducherry	1
+white lake, mi, united states	1
+eugene, or, united states	1
+74074, heilbronn, deutschland	1
+ไทยแลนด์ แขวง​ ทุ่งวัดดอน​ เขต​ สาทร​  กรุงเทพมหานคร ประเทศไทย	1
+europe/copenhagen	1
+thanjavur, india	1
+brevard county, fl, united states	1
+camas, wa, united states	1
+poland/germany	1
+gdynia, polska	1
+charlottesville, va, usa	1
+76903 candiles, méxico	1
+d.c., dc, united states	1
+moro	1
+walworth, ny, united states	1
+st. petersburg, fl, usa	1
+--------------	1
+east lansing mi	1
+milano, italy	1
+alba, cn, italia	1
+kerman, iran	1
+los angeles, ca 90005, united states	1
+videira - sc, brasil	1
+maribor, slovenija	1
+dcl	1
+east palo alto, ca	1
+uk (n.i.)	1
+ormoc, leyte, philippines	1
+bagh -e- azadi avenue, herat, afghanistan	1
+bindoon, western australia, australia	1
+pizzaria upside down	1
+brampton, on, canada	1
+russia, kamchatka	1
+front royal, va	1
+naples, italy	1
+gun barrel city, texas	1
+san antonio, tx usa	1
+i'm lost.	1
+the lounge room	1
+świętochłowice, польша	1
+lingsey west bengal, india, lingsay khasmahal, sikkim, india	1
+carolinas	1
+leander, tx, usa	1
+carmel, in	1
+bhaktinagar circle, lakshmiwadi, rajkot, gujarat, india	1
+milton keynes, uk	1
+kobe, japan	1
+hamilton, scotland, united kingdom	1
+suwanee, ga	1
+ny and vt	1
+pondicherry, india	1
+valencia area, spain	1
+new hope, pa	1
+fairfield county, ct, united states	1
+near the center of it all	1
+dandong, liaoning, china	1
+padua, italy	1
+rego park, queens, ny, united states	1
+dk	1
+berkhamsted, united kingdom	1
+winchester, va	1
+middletown, de	1
+pacland	1
+somewhere, probably	1
+null island, at (0,0)	1
+shawinigan, canada	1
+martil, tangier-tetouan, morocco	1
+athens, central athens, greece	1
+split between the caribbean and europe	1
+scandinavia	1
+wilmington, de, united states	1
+lion's head, cape town, south africa	1
+bachu khan	1
+sioux falls, sd, united states	1
+golgotha	1
+somewhere in us	1
+somewhere in kazakhstan	1
+puducherry, india.	1
+randburg, gauteng, south africa	1
+ras jebel, gouvernorat de bizerte, tunisie	1
+alexandria, va, united states	1
+la jolla, san diego, ca, usa	1
+curacao	1
+lisboa, portugal	1
+belvedere	1
+vegas	1
+visalia, ca	1
+loivi	1
+albuquerque, nm, usa	1
+west-vlaanderen	1
+antibes, france	1
+pijnacker, netherlands	1
+bemmel, netherlands	1
+santa fe, new mexico, united states	1
+haarlem	1
+ilkley, united kingdom	1
+igrejinha - rs, brasil	1
+sonipat, haryana, india	1
+lodi, wi, united states	1
+perm', russia	1
+ashgabat, turkmenistan	1
+south arica	1
+mechanicsburg, pa, united states	1
+beverly hills, ca	1
+vasundhara, ghaziabad, uttar pradesh, india	1
+seogyo-dong, mapo-gu, seoul, south korea	1
+dayton, oh, united states	1
+salaspils, latvia	1
+chittagong division, bangladesh	1
+overland park, ks	1
+yogyakarta	1
+korea university, seoul, south korea	1
+vejle, danmark	1
+susteren, netherlands	1
+tallahassee, fl 32301, united states	1
+pacific northwest	1
+karaj	1
+tübingen, germany	1
+białystok, polska	1
+midvale, ut, usa	1
+0	1
+stalybridge, united kingdom	1
+detroit	1
+karnal, india	1
+syracuse, ny, united states	1
+kilimanjaro, tanzania	1
+riverton, ut, united states	1
+linden, nj	1
+worcester	1
+logroño, spain	1
+kraków / london	1
+stony brook, ny	1
+deogarh, odisha, india	1
+approximately 8 light minutes from sol, the local star	1
+cincinnati ohio	1
+canoas, brazil	1
+couch	1
+aarhus c, aarhus, danmark	1
+hawthorne, ca, usa	1
+utrecht	1
+beseri	1
+simsbury, ct, united states	1
+trier, germany	1
+moron, ciego de avila, cuba	1
+college station, tx, united states	1
+anchorage, ak, usa	1
+paphos, cyprus	1
+malaga, spain	1
+deadwood, or, united states	1
+edmond, ok	1
+1324 west sunset lane, west lafayette, in, united states	1
+farmers market place, los angeles, ca, united states	1
+ж.к. възраждане iii, пчелина	1
+london, great britain	1
+missouri	1
+west of house	1
+iit guwahati	1
+winston-salem, nc, usa	1
+alaçatı, i̇zmir, turkey	1
+merseyside, united kingdom	1
+skopje, macedonia	1
+nowhere land	1
+são josé dos campos - sp	1
+current location	1
+aquiraz, ce, brasil	1
+pt	1
+villupuram, tamil nadu, india	1
+भारत (india)	1
+bakersfield, ca	1
+sofa	1
+konstanz, germany	1
+ontario, ca	1
+multan, punjab, pakistan	1
+antalya, türkiye	1
+ermelo, the netherlands	1
+sao paulo, brasil	1
+lörrach, germany	1
+st petersburg, россия	1
+nigeria - dubai - united arab emirates	1
+jinan, china	1
+خدمات قانونی وکلا	1
+surrey, canada	1
+varanasi	1
+annecy, france	1
+aarschot, belgium	1
+phnom penh	1
+the great white north	1
+cryptonia	1
+panama city beach, fl, usa	1
+оттуда	1
+dharapuram, tamil nadu, india	1
+taubaté, sp, brasil	1
+sunny sd	1
+milpitas, ca	1
+bangalore india	1
+興怡	1
+leiden, nederland	1
+sss	1
+manalapan, fl, united states	1
+wilmslow, united kingdom	1
+boise, id, united states	1
+university of oklahoma, norman, ok, united states	1
+silchar, india	1
+izmir	1
+belem, brazil	1
+adelaide	1
+sichuan, china	1
+northeastern us	1
+bucharest, municipiul bucurești, românia	1
+marshall, ar	1
+gopeshwar, uttarakhand, india	1
+newark, nj	1
+bitonto, italy	1
+valinhos, brazil	1
+china, kagoshima prefecture, japan	1
+troon, scotland	1
+minas gerais, brasil	1
+baltimore, md and new york, ny	1
+valhalla	1
+velletri, metropolitan city of rome, italy	1
+mombasa county, kenya	1
+st. cloud, mn	1
+watford, united kingdom	1
+oswego, ny, united states	1
+berkeley, california	1
+central massachusetts	1
+calhoun, ga, united states	1
+missouri, united states	1
+columbus, ohio, united states	1
+milky way, verona, wi, united states	1
+highlands ranch, co, usa	1
+sp - brasil	1
+red sea university east road, port sudan, sudan	1
+au	1
+givatayim, israel	1
+burdur, türkiye	1
+champaign, il, usa	1
+7151 mawson station, australian antarctic territory, antarctica	1
+baton rouge, la, usa	1
+hixson, tn	1
+gazipur, bangladesh	1
+austin, texas	1
+adelaide, sa	1
+basel, suisse	1
+hof, deutschland	1
+banda aceh, republik indonesia	1
+presto, pa	1
+firenze, metropolitan city of florence, italy	1
+klemunan, indonesia	1
+columbia, sc, usa	1
+reigate, united kingdom	1
+leutkirch im allgäu, germany	1
+udaipur, rajasthan	1
+shanghai, p.r.c	1
+humanity	1
+burlington, on, canada	1
+roma, italy	1
+cape town/durban, south africa	1
+aut	1
+mansehra, khyber pakhtunkhwa, pakistan	1
+compiegne, france	1
+iowa, usa	1
+cergy, france	1
+picturanosaurus land fr	1
+luleå, sweden	1
+deep forest	1
+salt lake city, utah	1
+tasikmalaya, indonesia	1
+san clemente, ca, usa	1
+vancouver coast salish territory	1
+berkeley ca	1
+a pale blue dot called earth.	1
+healdsburg, ca	1
+el dorado, arcadia	1
+btc: 15ag4pqw4wqhpm8wk2jzekwsecrntkmk4w	1
+cairo governorate, egypt	1
+peoria, il, usa	1
+snohomish, wa, united states	1
+bacău, romania	1
+lowell, ma	1
+brasília, brazil	1
+"img src=x onerror=prompt(document.cookie);	1
+salé, rabat-salé-kénitra, morocco	1
+ahmedabad,gujarat,india	1
+peepola, rajasthan, india	1
+gympie, queensland, australia	1
+san carlos de bariloche, argentina	1
+http://www.maths.manchester.ac.uk/~burdges/	1
+bitcointalk.org	1
+paducah, ky, usa	1
+březolupy, česko	1
+boston, massachusetts	1
+maldives	1
+north vancouver, canada	1
+zagreb, hrvatska	1
+deventer, netherlands	1
+istanbul, not constantinople, turkey	1
+kiryat ata, israel	1
+holding no:606,road:606dania,dania-1236,kodomtoli,polli,dhaka .	1
+catasauqua, pa	1
+bergamo, bg, italia	1
+gang damai	1
+northern virginia campus, scholar plaza, leesburg, va, united states	1
+five dock, new south wales, australia	1
+garden city, ny	1
+são paulo - capital	1
+frisco, texas	1
+blisworth, united kingdom	1
+kanaf	1
+punjab,pakistan	1
+pacifica, ca	1
+imphal, india	1
+beaumont, tx, united states	1
+the internet (all cardinal directions)	1
+montevideo, montevideo department, uruguay	1
+charleroi, belgique	1
+the web	1
+aiaa(in the near future)	1
+ivano-frankivs'k, ukraine	1
+singapore/taiwan	1
+joacaba, brazil	1
+bcn	1
+santiago de los caballeros, república dominicana	1
+udupi, karnataka, india	1
+worcester, ma	1
+buckinghamshire, united kingdom	1
+curacao,  22000	1
+summerset, sd, united states	1
+manresa, spain	1
+ca, united states	1
+609 villa park road, kissimmee, fl, usa	1
+tysons, va 22182, usa	1
+asunción, paraguay	1
+skokie, il, united states	1
+tunis, tunisie	1
+diy, indonesia	1
+mnit jaipur	1
+il, usa	1
+fairplay, co, united states	1
+redwood city, california, united states	1
+cannock, uk	1
+kingston upon thames, united kingdom	1
+petrovac, montenegro	1
+lào cai, lao cai, ຫວຽດນາມ	1
+cluj-napoca, kolozsvár	1
+tampico, mexico	1
+algiers, algeria	1
+luxembourg, luxemburg	1
+lebanon, nj	1
+ussr	1
+fredericton, canada	1
+amsterdam, holland	1
+flower mound, tx	1
+tucuman	1
+cedar rapids, ia, usa	1
+vigana, switzerland	1
+if.ua	1
+terre haute, in, usa	1
+vancouver, b.c.	1
+cascais, portugal	1
+orange county ca	1
+lots of places	1
+crooked soley, united kingdom	1
+new mexico, usa	1
+leaf village	1
+osaka prefecture, japan	1
+taranagar, rajasthan, india	1
+borrowcop lane, lichfield ws14 9dg, uk	1
+manchester, nh	1
+hawaj, spojené štáty americké	1
+xmr/btc	1
+long island, new york, ny, united states	1
+purwokerto	1
+quincy, il	1
+中国陕西省xian shi	1
+aurora, co, usa	1
+van nuys, ca, united states	1
+soflo | nj	1
+leszno, poland	1
+sedona, az, united states	1
+in an orbit	1
+stockport, united kingdom	1
+mariupol', ukraine	1
+lugansk, луганская область, ukraine	1
+cary, nc, united states	1
+nrw, deutschland	1
+peckham, london, united kingdom	1
+sondrio, italy	1
+nijmegen, netherlands	1
+tarragona, espanya	1
+holly springs, nc	1
+clermont-ferrand, france	1
+♦ domlur, bangalore, karnataka, india	1
+los gatos, ca, usa	1
+cherkasskaya oblast', ukraine	1
+greensboro, nc, usa	1
+smolensk, russia	1
+fürth, germany	1
+switzerland/ch	1
+fairbanks, alaska	1
+esch-sur-alzette, luxembourg	1
+querétaro, méxico	1
+bruxelles, belgium	1
+chinchali, karnataka, india	1
+terrassa, spain	1
+cz	1
+punggol, singapore	1
+bishkek	1
+mons, belgium	1
+leipzig	1
+in a computer	1
+farmington hills, mi, united states	1
+programming castle, cholpon ata, kyrgyzstan	1
+duluth, mn, united states	1
+halden, norge	1
+brasília-df, brazil	1
+namur, belgique	1
+wuhan, hubei, china	1
+oak park, mi, usa	1
+indiana university bloomington	1
+nagpur, india	1
+craiova, dolj county, romania	1
+wellfleet, ma, united states	1
+menomonee falls, wi	1
+jacarei - state of são paulo, brazil	1
+calcutta	1
+gandhinagar, gujarat	1
+khartoum	1
+saint-jérôme, qc, canada	1
+slane, meath ireland	1
+bharuch, gujarat, india	1
+france, castelnau-de-lévis, فرنسا	1
+503 gardiners ave levittown, ny 11756, united state california 92618	1
+ebermannsdorf, deutschland	1
+formiga - state of minas gerais, brazil	1
+dubai marina - dubai - united arab emirates	1
+grand prairie, tx, usa	1
+colchester, united kingdom	1
+sousse jaouhara, sousse, tunisia	1
+torrance, ca, usa	1
+rutgers university	1
+in the void of the web.	1
+saratov, saratov oblast, russia	1
+rawalpindi	1
+lalitpur, nepal	1
+barranquilla, atlántico, colombia	1
+lutfridstraße, bonn, germany	1
+napier, new zealand	1
+ashdod, israel	1
+indonesia,lampung	1
+dz	1
+noobville	1
+beechwood, nsw, australia	1
+tegucigalpa, honduras	1
+landshut	1
+yanliang, xi'an, shaanxi, china	1
+tahsis, bc, canada	1
+koblenz, deutschland	1
+my computer, where else?	1
+olching, germany	1
+gold coast,australia	1
+calamba city, calabarzon, philippines	1
+"img src=x onerror=prompt(1);	1
+interstellar transport station #854	1
+web / apps developer	1
+richboro, pa	1
+россия	1
+haubourdin, france	1
+http://gopalakrishna.palem.in/	1
+chiang mai thailand	1
+krasnoarmeysk, russia	1
+brasília - df	1
+oeiras, portugal	1
+lancaster, england	1
+odenton, md	1
+williamsburg, brooklyn, ny, usa	1
+sousse, gouvernorat de sousse, tunisie	1
+andover, ma, united states	1
+crete	1
+livermore, ca	1
+campbell, ca, united states	1
+nanjing	1
+54601	1
+montpellier	1
+nunawading, victoria, australia	1
+..., paris, i̇stanbul, тошкент, مزار شریف, berlin, ...	1
+marte	1
+île-de-france, france	1
+silo	1
+mataura, new zealand	1
+goa, bicol, philippines	1
+elwood victoria, australia	1
+channelview, tx, usa	1
+naperville, il, united states	1
+rangiroa, french polynesia	1
+the cyber space	1
+50 ross street, toorak victoria, australia	1
+sylhet, sylhet division, bangladesh	1
+winston-salem, nc	1
+tyrol, austria	1
+guildford, united kingdom	1
+hatboro, pa, united states	1
+trieste, italy	1
+crete, illinois, united states	1
+great white north	1
+plano, texas	1
+kadapa, india	1
+asheville, nc	1
+los angeles, california, united states	1
+cheboksary, чувашская республика, russia	1
+the cosmos	1
+shanghai china	1
+cluj-napoca, județul cluj, românia	1
+kirkland, wa, usa	1
+pewaukee, wi, usa	1
+zufim	1
+harare, pretoria, rdc, middle east, cape town...	1
+akron, oh, usa	1
+herne bay, united kingdom	1
+s3.14steroid	1
+chinchwad, pimpri-chinchwad, maharashtra, india	1
+中国jiangxi sheng	1
+sc, brasil	1
+surrey, united kingdom	1
+taipei city, 台灣	1
+nv, united states	1
+travelling the world, last seen in thailand.	1
+ottawa, ontario, canada	1
+milan	1
+royal tunbridge wells, united kingdom	1
+china / hongkong	1
+woking, united kingdom	1
+fryslân, netherlands	1
+zaandam, netherlands	1
+enid, ok, usa	1
+3rd planet from sun	1
+homyel, homiel province, belarus	1
+salisburgo, austria	1
+tours, france	1
+chemnitz, deutschland	1
+hockessin, de	1
+yoshkar-ola, russia	1
+not birch tree	1
+indore, wv	1
+andria, italy	1
+northern california	1
+республика марий-эл, г.йошкар-ола	1
+kish travels building #401, madinat zayed, po box: 114954, abudhabi,uae	1
+berea, oh, usa	1
+пловдив, българия	1
+munchenbuchsee, switzerland	1
+http://rzr.online.fr	1
+not usa	1
+europe/kiev	1
+deoria, uttar pradesh, india	1
+duitama, boyacá, colombia	1
+posadas, misiónes, argentina	1
+east stroudsburg, pa	1
+addison, tx, united states	1
+murrells inlet, sc, united states	1
+wa, usa	1
+bhopal, india	1
+tambov, tambov oblast, russia	1
+grimstad, norway	1
+athens, greece and london, uk	1
+littleton, co, usa	1
+logan, ut, usa	1
+sala, sweden	1
+eastern united states	1
+hickory, nc	1
+mogi mirim, sp, brasil	1
+glasgow	1
+rosenheim (bavaria), germany	1
+savannah, ga, usa	1
+east java, indonesia	1
+currently at famaf, córdoba, argentina	1
+edmonds, wa, united states	1
+berkeley, ca, usa	1
+gornji milanovac, serbia	1
+ak	1
+râmnicu vâlcea, vâlcea county, romania	1
+bloomfield, nj, united states	1
+allington, maidstone, united kingdom	1
+mobile, al, united states	1
+nicholasville, ky, usa	1
+brandon, fl, united states	1
+gaziantep, turkey	1
+gmt + 5:30	1
+seattle, wa usa	1
+bay of plenty, new zealand	1
+recife	1
+farewell stack exchange	1
+calmasino, vr, italia	1
+shirvan, azerbaijan	1
+thane, maharashtra, india	1
+bonners ferry, id, usa	1
+bregenz, austria	1
+astoria, queens, ny, usa	1
+flora hill vic, australia	1
+st julian's, malta	1
+platte city, mo, united states	1
+kramators'k, ukraine	1
+hortolândia - sp, brasil	1
+dorset, united kingdom	1
+boston ravine, grass valley, ca, united states	1
+north yarmouth, me, usa	1
+anytown, europe	1
+hjsi	1
+nashua, nh, united states	1
+เบลพาร์คเรสซิเด้นซ์1สาธุ19ยานนาวา	1
+billings, mt	1
+vinnytsya, ukraine	1
+bydgoszcz–toruń, polska	1
+north pole, alaska, états-unis	1
+ternate city, north maluku, indonesia	1
+galveston, tx, united states	1
+provo, ut, united states	1
+fl, usa	1
+genève, zwitserland	1
+flitwick, united kingdom	1
+noida,india	1
+jalan bukit merah, singapore	1
+burgos, españa	1
+ananindeua, pará - brazil	1
+philadelphia area, pa, united states	1
+brandon, manitoba, canada	1
+gurgaom	1
+armidale, new south wales, australia	1
+silver creek	1
+cáceres, spain	1
+mansfield, nottinghamshire, uk	1
+kano, nigeria	1
+lisbonne, portugal	1
+russia / south korea	1
+taylor, mi 48180, united states	1
+москва	1
+medford, massachusetts, united states	1
+porirua	1
+mirpur, dhaka, dhaka division, bangladesh	1
+cascavel, brazil	1
+funky fish bar, cromwell road, hounslow, united kingdom	1
+comilla district, chittagong division, bangladesh	1
+onitsha	1
+fröndenberg, germany	1
+myrtle beach, sc, united states	1
+belfort, france	1
+cipherspace	1
+lakeland, florida	1
+khet chatuchak กรุงเทพมหานคร ประเทศไทย	1
+port saint lucie, fl, united states	1
+38°01′41″n 121°53′05″w	1
+lake charles, la	1
+comilla, chittagong division, bangladesh	1
+kota damansara petaling jaya selangor malaysia	1
+marbella, málaga, spain	1
+entebbe, uganda	1
+sol	1
+frankfurt nad menem, niemcy	1
+bardstown, ky	1
+castle rock, co, united states	1
+osaka, osaka prefecture, japan	1
+goiânia, brazil	1
+beaverton, or	1
+on, canada	1
+tonawanda, ny, united states	1
+foster city, ca, usa	1
+lodi, nj, united states	1
+london uk / porto alegre br	1
+houston, texas	1
+краснодар, краснодарский край, россия	1
+portland,or	1
+corvallis, or, usa	1
+kentucky, us	1
+highlands ranch, co	1
+new haven, ct	1
+edinburgh old town, edinburgh, united kingdom	1
+saratoga springs, ut, united states	1
+mexico df	1
+genoa mount (not in nevada)	1
+ludhiana, punjab, india	1
+santos, state of são paulo, brazil	1
+palm beach gardens, fl, united states	1
+somewhere mostly harmless	1
+bra, italy	1
+harrison	1
+gazipur district, dhaka division, bangladesh	1
+rexburg, id	1
+lake forest, il, united states	1
+ashkelon, israel	1
+griesheim, germany	1
+grand junction, co, united states	1
+日本、東京都	1
+chinatown, new york, ny, united states	1
+vinnitsia	1
+in front of a computer	1
+adana, turkey	1
+joplin, mo, united states	1
+grand terrace, ca, usa	1
+cape horn, south africa	1
+lansing, mi	1
+bratislava, slovensko	1
+huehueland	1
+batavia, il	1
+svelvik, norge	1
+tirupati, andhra pradesh, india	1
+behind my computeur seems legit	1
+yakima, wa	1
+são carlos - state of são paulo, brazil	1
+ft lauderdale, fl, usa	1
+ventura, ca	1
+outer space	1
+ogun state, nigeria	1
+linköping, sweden	1
+ca & nyc	1
+nicosia, cyprus	1
+sibiu, romania	1
+university of würzburg, germany	1
+pine island, mn, united states	1
+arcata, ca	1
+lausanne	1
+borabanda, hyderabad, telangana, india	1
+skyrim	1
+messiah's complex	1
+al mansurah, egypt	1
+dallas tx / san jose ca	1
+merrimack, new hampshire	1
+europe, somewhere	1
+internationalized	1
+some place humans have never been.	1
+qazvin province, iran	1
+nevada	1
+homs‎, syria	1
+detmolder str. 317, 33175, bad lippspringe, germany	1
+st. john's nl, canada	1
+lakewood, co, usa	1
+earth, tx, usa	1
+athens,greece	1
+sardinia, italy	1
+https://biometricsengineers.com	1
+cuet	1
+corona, ca, united states	1
+tunja, boyaca, colombia	1
+athens	1
+doslidnyts'ke, київська область, україна	1
+peoria, il, united states	1
+tashkent, узбекистан	1
+saigon, ho chi minh, vietnam	1
+sunderland, united kingdom	1
+florianopolis, brazil	1
+oman, muscat	1
+gijón, asturias, españa	1
+san salvador de jujuy, argentina	1
+λονδίνο, ηνωμένο βασίλειο	1
+magura district, khulna division, bangladesh	1
+aceh	1
+glasgow, scotland, united kingdom	1
+morganville, marlboro township, nj, united states	1
+san josé, ca	1
+42	1
+bw, germany	1
+vile parle east, mumbai, maharashtra, india	1
+kharagpur, west bengal, india	1
+selinsgrove pennsylvania	1
+deventer, holland	1
+'s hertogenbosch, netherlands	1
+bayreuth, germany	1
+brixen, italy	1
+montgomery, al, united states	1
+universe	1
+france, europe	1
+wilhelmshaven, germany	1
+egupets, ua	1
+new london, pa, united states	1
+new paltz, ny, united states	1
+dalian, 辽宁省 china	1
+manchester, nh, usa	1
+swat, khyber pakhtunkhwa, pakistan	1
+santa ana, ca, united states	1
+antwerpen	1
+winston salem, nc	1
+superior, co, united states	1
+closter, nj, united states	1
+cambourne, uk	1
+texarkana, texas	1
+variable	1
+slovenia, eu	1
+fishers, in, united states	1
+saint kitts and nevis	1
+niagara falls, canada	1
+göppingen, germany	1
+oh, united states	1
+florida.	1
+right around the corner	1
+hancock, mi	1
+myanmar (burma)	1
+vizianagaram	1
+hilden, deutschland	1
+boone, nc	1
+jakarta, special capital region of jakarta, indonesia	1
+sekondi-takoradi, western region, ghana	1
+aruba	1
+berno, szwajcaria	1
+sleman, yogyakarta	1
+mauritius	1
+maple grove, mn	1
+va	1
+tula, russia	1
+225 ga-18, west point, ga, usa	1
+outside the box	1
+avon, co	1
+dmv	1
+joão pessoa, brazil	1
+geneva area, france	1
+canes venatici	1
+out there somewhere	1
+moradabad, uttar pradesh, india	1
+málaga, espanha	1
+stellenbosch, western cape, south africa	1
+https://metasmoke.erwaysoftware.com/status	1
+bresso, mi, italia	1
+baleares	1
+valenzuela, ncr, philippines	1
+kailua-kona, hi, usa	1
+[0, 0, 0, 0]	1
+lafayette, co, united states	1
+dayton, oh	1
+想像フォレスト	1
+vallejo, ca, united states	1
+milan area, italy	1
+scottsdale, az usa	1
+hitec city, hyderabad, telangana, india	1
+dombóvár, hungary	1
+pottstown, pa	1
+red hook, new york, united states	1
+timbuktu, or	1
+bandung, id	1
+camberley, united kingdom	1
+king's landing	1
+johannesburg south, gauteng, south africa	1
+north of la	1
+ujjain, madhya pradesh, india	1
+jersey city, nj	1
+pnw	1
+qingdao	1
+greenwich, ct, united states	1
+milton keynes, united kingdom	1
+orion arm, milky way	1
+cagayan de oro, northern mindanao, philippines	1
+somewhere in spacetime	1
+alameda, ca, usa	1
+artsho.ws	1
+amsterdam, nl	1
+khulna city, khulna, khulna division, bangladesh	1
+dublin, oh, united states	1
+lee, nh, united states	1
+glasgow, scotland	1
+zaporizhzhia, ukraine	1
+post falls, id, united states	1
+wichita falls, tx, usa	1
+sirsi, karnataka, india	1
+portland/seattle	1
+rockville, md	1
+grants pass, grants pass, or, usa	1
+беларусь	1
+port harcourt, nigeria	1
+microsoft	1
+winchester, united kingdom	1
+dhakadakshin degree college, kanishail, sylhet division, bangladesh	1
+swansea, wales	1
+the interwobs	1
+pekanbaru, pekanbaru city, riau, indonesia	1
+rio de janeiro, état de rio de janeiro, brésil	1
+goiânia, state of goiás, brazil	1
+lymington, united kingdom	1
+net	1
+olympia, wa, united states	1
+rueil-malmaison, france	1
+palmas - to, brasil	1
+menifee, ca, united states	1
+missoula, mt	1
+amazon rainforest, codajás - state of amazonas, brazil	1
+kharkov, ukraine	1
+mare tranquillitatis	1
+miami, florida, united states	1
+abersychan, united kingdom	1
+kennedale, tx	1
+prescott, az	1
+anywhere, usa	1
+solna, sweden	1
+espoo, southern finland finland	1
+pennsylvania, us	1
+cermenate, italy	1
+amazon aws	1
+somewhere on the planet earth	1
+anacortes, wa, united states	1
+palo alto ca	1
+earth, usually	1
+proxima centauri	1
+helsinki, finnland	1
+shakopee, mn, united states	1
+idaho, usa	1
+kharkiv, kharkiv oblast, ukraine	1
+the shattered plains, roshar	1
+toronto | dallas | miami	1
+tatarstan republic	1
+vera cruz do oeste - pr, brasil	1
+hesse, germany	1
+monterrey, méxico	1
+armavir, russia	1
+cirencester, united kingdom	1
+montes claros, brazil	1
+pl	1
+overland park, ks, usa	1
+parklands, nairobi, kenya	1
+bristol.  uk	1
+malmö, sweden	1
+germany, nrw, borken	1
+peshawar, pakistan	1
+abbotsford, canada	1
+herndon va	1
+oberhausen, germany	1
+brisbane, australi	1
+genève, switzerland	1
+cuvat, france	1
+interwebs	1
+chemnitz, germany	1
+kassel, deutschland	1
+portland oregon	1
+kielce, poland	1
+p9g5+9f, 35899	1
+pitcairn island	1
+rochester, mi, united states	1
+london n1, united kingdom	1
+lancaster, oh, united states	1
+kingsland, ga, usa	1
+135 mepham street, london se1 8sq, united kingdom	1
+atlanta, georgia, birleşik devletler	1
+auckland, nz	1
+quezon city, metro manila, philippines	1
+recife, brasil	1
+kasur, punjab, pakistan	1
+amherst, ma, united states	1
+newport, nc, usa	1
+bosques, buenos aires, argentina	1
+spokane valley, wa, united states	1
+waterloo, ontario	1
+4 corners	1
+ridgeland, ms	1
+sydney, au	1
+se washington state	1
+_	1
+kanpur	1
+greater atlanta area	1
+herzberg, germany	1
+březová-oleško, česká republika	1
+ангарск, иркутская область, россия	1
+europe (italy, portugal, uk, ireland, germany)	1
+mérida, yucatán, mexico	1
+rijeka, croatia	1
+หน่วยจับสุนัขจรจัดกรุงเทพมหานครฯ	1
+bursa, turkey	1
+gurgaon	1
+pierce county, wa, usa	1
+strassen, luxembourg	1
+montréal, québec, canada	1
+darmstadt	1
+'merica	1
+the peach blossom spring	1
+el jadida, doukkala-abda, maroc	1
+tres rios, brazil	1
+busan, south korea	1
+guimaraes, portugal	1
+culver city, ca, united states	1
+goodland, ks, united states	1
+hamburg, german	1
+comox, bc, canada	1
+cluj napoca, romania	1
+randers, denmark	1
+northern massachusetts	1
+malta, europe	1
+ilford, united kingdom	1
+mccamey, tx, united states	1
+dhaka bangladesh	1
+mo, usa	1
+planet earth, sector zz9 plural z alpha	1
+somewhere near tropic of cancer	1
+merida	1
+anápolis, state of goiás, brazil	1
+saint-étienne, france	1
+miami-fort lauderdale-miami beach, fl, fl, usa	1
+mati	1
+blk30 lot 10 1k2 southville 8c rodreguiz,rizal	1
+inglewood, ca, united states	1
+santiago de querétaro, mexico	1
+kitchener	1
+udupi, india	1
+canmore, ab, canada	1
+norfolk, va	1
+malaysia mobile	1
+harrisonburg, va 22802	1
+distrito federal, méxico	1
+corte madera, ca, usa	1
+panama	1
+hollywood, fl, united states	1
+thousand oaks, ca	1
+kashmir, india	1
+savarkundla, gujarat, india	1
+temuco, chile	1
+nürnberger	1
+boynton beach, fl, united states	1
+istanbul,turkey	1
+lexington, ky, united states	1
+manaus - amazonas - brazil	1
+hiep	1
+exeter, regno unito	1
+aix-en-provence, france	1
+belfast, northern ireland	1
+valladolid, spain	1
+leskovac, serbia	1
+smithfield, va, united states	1
+jemberlor, kabupaten jember, jawa timur, indonesia	1
+cali, valle del cauca, colombia	1
+sunny side of saturn	1
+italy / united kingdom	1
+simon fraser university	1
+bel air, md	1
+nova	1
+pathankot, punjab, india	1
+cyprus, limassol	1
+cadrezzate, va, italy	1
+mahón, islas baleares, españa	1
+jawa tengah, indonesia	1
+concord, nh	1
+mdeo,uy	1
+venice, italy	1
+ایرانشهر، تهران، استان تهران، ایران	1
+nonesuch road, abilene, tx, united states	1
+kottawa, pannipitiya, western province, sri lanka	1
+mathrix	1
+yangon, myanmar.	1
+formiga, mg, brazil	1
+bogotá. colombia	1
+klazienaveen, nederland	1
+gerge	1
+boulder, colorado	1
+targu mures, romania	1
+everywhere :)	1
+vapi	1
+anacortes, wa	1
+mangalore	1
+st. petersburg, severo-zapadniy fed. okrug, russia	1
+greater oslo region, norway	1
+pekalongan, pekalongan city, jawa tengah, indonesia	1
+los angeles area	1
+lake tahoe, ca	1
+hangzhou	1
+freelance	1
+londrina, brazil	1
+trent, italy	1
+fort walton beach, fl, united states	1
+kingston, jamaica	1
+opole, poland	1
+ermua, vizcaya, spain	1
+anantnag	1
+bowling green, ky	1
+edmonton alberta canada	1
+bathurst, new brunswick, canada	1
+hohenau, paraguay	1
+ústí nad labem	1
+midlothian, va, united states	1
+fortaleza, ce, brazil	1
+your mind.	1
+germany, bergisch gladbach	1
+cedar park, tx, united states	1
+the swamp	1
+silicon valley, sol iii	1
+nothomeland	1
+florianópolis - state of santa catarina, brazil	1
+lake stevens, wa, usa	1
+maui, hawaii	1
+valence shell	1
+méxico, cdmx, méxico	1
+zalec, slovenia	1
+rio de janeiro; évora, portugal	1
+bothell, wa, usa	1
+göttingen, germany	1
+santa bárbara d'oeste - sp, brasil	1
+fairfield, ia, united states	1
+gurae-dong, 김포시 경기도 대한민국	1
+wall street, new york, ny, united states	1
+esfahan, iran	1
+⚡	1
+zhytomyr, zhytomyrs'ka oblast, ukraine	1
+london/saigon/lisbon	1
+nevada, united states	1
+belize	1
+creil, fransa	1
+se asia	1
+eluru, india	1
+twin cities, mn, united states	1
+cloud 9	1
+oklahoma, united states	1
+x marks the spot	1
+nixa, mo, usa	1
+omaha, ne, usa	1
+dietzenbach, deutschland	1
+moçambique	1
+bolzano, province of bolzano - south tyrol, italy	1
+zivinice, bosnia and herzegovina	1
+53 reynolds street, iselin, new jersey	1
+gran canaria	1
+barcelone, espagne	1
+3-76-7 arakawa, arakawa city, 东京都日本	1
+south delhi, delhi, india	1
+харьковская область, ukraine	1
+(e^π - π) metres west of previously observed location	1
+sf bay area	1
+timmins, on, canada	1
+plovdiv, bulgaria	1
+toulouse	1
+uttara, dhaka, dhaka division, bangladesh	1
+mangaluru, karnataka, india	1
+enter a location	1
+nyc, ny	1
+muzaffarnagar, uttar pradesh, india	1
+koh kong bridge, មណ្ឌលសីមា, កម្ពុជា	1
+~/	1
+itoshima city, fukuoka, japan	1
+new jersey, us	1
+cape elizabeth, me	1
+changsha, china	1
+nador, oriental, morocco	1
+plano, tx	1
+adipur, india	1
+sainte-croix, suisse	1
+the labyrinth	1
+new york, new york, usa	1
+kochi,india	1
+cosmos, mn	1
+pully, switzerland	1
+surabaya	1
+herisau, switzerland	1
+oklahoma	1
+hartford, ct, united states	1
+jalan irrawaddi georgetown george town ponte penang malaysia	1
+hatfield, united kingdom	1
+sao paulo - brazil	1
+wesley chapel, fl	1
+edison, nj	1
+macondo, colombia	1
+virpur	1
+iquique, chile	1
+tiburon, california	1
+astoria, ny	1
+westland, mi, usa	1
+united state	1
+$$f^{a^{r^{r^{r^{r^{a^{w^{a^{y}}}}}}}}}$$	1
+copenhagen area, denmark	1
+tuzla, bosnia and herzegovina	1
+san gwann, malta	1
+midwest	1
+tx, united states	1
+tyler, tx, united states	1
+lees summit, mo, united states	1
+tuscaloosa, al	1
+brasília - federal district, brazil	1
+tmp	1
+huntington beach, california	1
+sandersville, ms, united states	1
+vasai east, vasai, maharashtra, india	1
+muğla province, turkey	1
+aptos, ca, usa	1
+the sty	1
+congo-kinshasa	1
+tabayesco, lanzarote, canary islands	1
+somewhere utc +08:00	1
+mannheim, deutschland	1
+metro manila, philippines	1
+alpharetta, ga, united states	1
+den haag, netherlands	1
+targu mures	1
+palm springs, ca, usa	1
+zion	1
+angola	1
+danbury, ct	1
+rovereto, italy	1
+hell on earth	1
+demetriou	1
+santa fe, nm	1
+yangon, myanmar	1
+mödling, austria	1
+lancaster, uk	1
+leupegem, belgium	1
+shiraz, fars, iran	1
+karaj, alborz, iran	1
+your moms	1
+south east asia	1
+trivandrum, india	1
+kingston, on, canada	1
+chon buri thailand	1
+modesto, ca, united states	1
+cercola, na, italia	1
+erehwon, null	1
+sacramento, california	1
+glendale, az	1
+kiev, украина	1
+qro.mx	1
+hildale, ut	1
+rural russia	1
+inferno	1
+pordenone, pn, italia	1
+namibia	1
+sherwood park, ab, canada	1
+médéa, algeria	1
+facebook data center, southwest connect way, prineville, oregon, hoa kỳ	1
+horsens, denmark	1
+bozeman, mt	1
+in the puɐlǝʇsɐm	1
+continental europe	1
+tsukuba-shi, japan	1
+western europe	1
+moorestown, nj	1
+gym	1
+sumaré - sp, brasil	1
+omaha, ar	1
+flint, mi	1
+morrissey, canada	1
+seoul	1
+moordrecht, netherlands	1
+somewhere in time lane, parksville, ny, united states	1
+elk rapids, mi, united states	1
+shibuya, tokyo, japan	1
+orange, nj	1
+kigali, rwanda	1
+cupertino	1
+areia, pb - brazil	1
+kostroma, russia	1
+davao, philippines	1
+remote, or, united states	1
+westfield, in, united states	1
+west palm beach, fl, usa	1
+burton upon trent, united kingdom	1
+спб, город санкт-петербург, россия	1
+planet pluto	1
+washington, d.c., dc, united states	1
+melbourne  vic, australia	1
+donostia	1
+dijon, france	1
+pleasant grove, ut	1
+greater new york city	1
+vaughan, on, canada	1
+ok, usa	1
+уфа, россия	1
+iit delhi, hauz khas, new delhi, delhi, india	1
+qingdao, china	1
+arkansas, usa	1
+bollywood	1
+stockbridge, ga	1
+menlo park, ca	1
+woking	1
+thiruvananthapuram, kerala, india	1
+espírito santo, brasil	1
+pontoise, france	1
+detroit, michigan, united states	1
+acapulco, gro., méxico	1
+hanover, nh	1
+leawood, ks, united states	1
+washington, usa	1
+mombasa, kenya	1
+tulsa, ok, united states	1
+san marino	1
+jacksonville, texas	1
+vellore, tamil nadu, india	1
+bethlehem, pa, usa	1
+pikesville, md	1
+lillehammer, norway	1
+tn, usa	1
+\location{address}	1
+arround the world !	1
+pleasant valley, missouri	1
+aracaju, brazil	1
+são paulo - brasil	1
+münster, germany	1
+toowoomba クイーンズランド オーストラリア	1
+lexington-fayette, ky, united states	1
+nystad, finland	1
+blk. 1 lot 13 phase 5b aranda st. manuyo ii gatchalian subdivision, las piñas city, philippines	1
+mn	1
+nl	1
+hubli, karnataka, india	1
+tuzaingó, buenos aires	1
+nad road, hmt colony, north kalamassery, kalamassery, cochin, kerala 683503, india	1
+pasco, wa, usa	1
+el paso, tx, usa	1
+brasov, romania	1
+krasnoyarskiy kray, russia	1
+esfahan, isfahan province, iran	1
+paris, ile-de-france france	1
+trollhättan, sverige	1
+washington, d.c	1
+united kingdom & romania	1
+chalkidiki, greece	1
+all over the world	1
+россия крым	1
+sonoran desert	1
+2 may walk, plaistow, london, e13 0ry, uk	1
+reno	1
+corvallis, or	1
+ringwood, england, united kingdom	1
+wolomin, poland	1
+merrimack, nh	1
+guildford, uk	1
+krasnodar, краснодарский край, россия	1
+san diego, california	1
+hertfordshire, united kingdom	1
+san jose avenue, rowland heights, ca, usa	1
+ribeirão preto - sp, brasil	1
+champlin, mn	1
+rancagua, chile	1
+marietta, oh	1
+campinas, sp, brasil	1
+valencia, santa clarita, ca, united states	1
+groningen	1
+sydney, nsw	1
+carmarthenshire, united kingdom	1
+netherland	1
+fct,abuja,nigeria	1
+mc, mc 43.7188° n, 7.4318° e	1
+jamaica plain, dorchester center, boston, ma, usa	1
+wiesbaden, deutschland	1
+dublin ireland	1
+biwabik, mn, united states	1
+sadulpur, rajasthan, india	1
+modugno, italy	1
+limpopo, south africa	1
+anus, france	1
+kirkland, wa, united states	1
+cyberjaya, selangor, malaysia	1
+tanur, kerala, india	1
+pickering, canada	1
+british columbia, kanada	1
+caba, argentina	1
+žednik, serbia	1
+köln	1
+.	1
+solihull, united kingdom	1
+cheppe, india, gete.umbrey@rgu.ac.in	1
+technopark campus, kazhakkoottam, kerala, india	1
+fernandópolis - sp, brasil	1
+broward county, fl	1
+bandung, indonesia	1
+plaza independencia, montevideo montevideo department, uruguay	1
+vancouver, british columbia, canada	1
+kidderminster, united kingdom	1
+global presence	1
+0588-afaf-ecc9-ff77	1
+muncie, in	1
+oschersleben, germany	1
+dnipro, днепропетровская область, украина	1
+lima, région de lima, pérou	1
+portland, oregon, united states	1
+kyiv, місто київ, україна	1
+thessaloniki,  greece	1
+lakehead, ca	1
+gauteng	1
+woodbridge, ct	1
+leuven, flanders, belgië	1
+northeast usa	1
+cotonou, littoral, bénin	1
+guadalajara, méxico	1
+ri, united states	1
+caen, france	1
+on my , or probably skiing.	1
+transylvania, romania	1
+reston, va	1
+pamplona, navarre, spain	1
+chioggia, metropolitan city of venice, italy	1
+santa rosa, ca, united states	1
+nearby	1
+international	1
+la habana, cuba	1
+ha noi, viet nam	1
+the state of jefferson	1
+anand, gujarat	1
+homyel', belarus	1
+sunnyvale, california, united states	1
+jales - sp, brazil	1
+south bend, in	1
+dnepropetrovsk, днепропетровская область, украина	1
+new britain, connecticut	1
+st. john's, nl, canada	1
+sochi, краснодарский край, россия	1
+brookings, sd, united states	1
+springfield, il	1
+inayagan, city of naga, cebu, central visayas, philippines	1
+bedford, nova scotia, canada	1
+tuvalu	1
+centerville, oh, usa	1
+ouro preto - state of minas gerais, brazil	1
+pécs, hungary	1
+southborough, ma, united states	1
+ukraine, dnipropetrovsk	1
+queen street, auckland, new zealand	1
+dortmund, germany	1
+ua	1
+franklin, tn	1
+rano	1
+florianópolis, brasil	1
+louisville, kentucky	1
+palmyra, il	1
+miami, florida, estados unidos	1
+don't care lane, celina, tn, united states	1
+ciudad de méxico, méxico	1
+porreres, spain	1
+swabi, khyber pakhtunkhwa, pakistan	1
+canada. please don't stalk me.	1
+earth, c-137 rick	1
+europe & asia	1
+jackson, wy, united states	1
+laniakea	1
+zhuhai, guangdong, china	1
+canonsburg, pa	1
+tehran - iran	1
+lancaster, великобритания	1
+leon, mexico	1
+oxford, england	1
+northern europe	1
+łódź, polska	1
+hermosillo, sonora, méxico	1
+belihuloya, sabaragamuwa province, sri lanka	1
+the west	1
+винница, винницкая область, ukraine	1
+groningen, the netherlands	1
+saint louis, mo, united states	1
+giza governorate, egypt	1
+williamsburg, va	1
+austria, lower austria	1
+st paul, mn	1
+ivoti, brazil	1
+san frnacisco	1
+silchar, assam, india	1
+aldercar and langley mill, langley mill, united kingdom	1
+drenthe, the netherlands	1
+varna	1
+chhindwara	1
+kampala uganda	1
+morgan hill, ca, united states	1
+czechowice-dziedzice, poland	1
+北京, 中国	1
+tiruchirappalli, india	1
+fresno, ca, usa	1
+marine ford	1
+там, где саша	1
+montréal	1
+exists and is unique	1
+montenegro	1
+northampton, united kingdom	1
+durban	1
+potchefstroom, north west, south africa	1
+kiev, kyiv city, ukraina	1
+dresden, deutschland	1
+regina, sk, canada	1
+swedish university of agricultural sciences, sweden	1
+thetford, uk	1
+shashamane, oromia, ethiopia	1
+world wide web	1
+lusaka, zambia	1
+patrika nagar road number 3, huda techno enclave, hitec city, hyderabad, telangana, india	1
+wichita	1
+kwara, nigeria	1
+hamirpur, himachal pradesh, india	1
+port orchard, washington, usa	1
+prishtina, district of pristina	1
+heerjansdam	1
+ملكوت الله	1
+tanta, egypt	1
+fort magsaysay palyan city nueva ecija	1
+lafayette, la, united states	1
+herriman, ut	1
+sandwiched in your smelly armpit	1
+malvern, ia, usa	1
+northern virginia	1
+ukraine kiev	1
+luxemburg	1
+wyoming	1
+saint charles, il, usa	1
+inside the death god's stomache	1
+petah tikva, israel	1
+temanggung, indonesia	1
+nowhere to be found	1
+munds park, az	1
+wuppertal, germany	1
+chişinău, moldova, eastern europe	1
+yerevan , armenia	1
+rạch giá, kien giang, vietnam	1
+earth, @127.0.0.1	1
+an underground bunker	1
+pa, usa	1
+bakı, azərbaycan	1
+south moravian region	1
+odessa oblast, ukraine	1
+中国四川省chengdu shi	1
+varna, българия	1
+anatolia	1
+murmansk, мурманская область, россия	1
+perth amboy, nj	1
+mezőkövesd, hungary	1
+grantham, nh, united states	1
+sarnia, canada	1
+greater seattle area	1
+veldhoven, netherlands	1
+issaquah, wa	1
+amsterdam, paesi bassi	1
+abuja, fct, nigeria	1
+french riviera	1
+saarbrücken, germany	1
+vermont	1
+accra - tema motorway, ghana	1
+itabuna, brazil	1
+lapu lapu,cebu,city philippines	1
+台灣台南市嘉義縣白河區	1
+prato, italy	1
+saddle brook, nj, usa	1
+irving, tx	1
+mississauga	1
+nyack, ny, united states	1
+elk grove, ca	1
+red deer, ab, canada	1
+accra - kumasi road, konongo, asante akim north,agogo, ghana	1
+new york, spojené státy americké	1
+cagy.org	1
+třemošná, czechia	1
+cubicle xiv, science station theta, proxima centauri	1
+onchain	1
+cotonou, benin	1
+murrieta, ca	1
+dattawadi road, akurdi, pimpri-chinchwad, pune, maharashtra, india	1
+porto velho - ro, brasil	1
+san jose, costa rica	1
+fremont,ca	1
+socal	1
+cottingham, united kingdom	1
+artcadia, raleigh, nc	1
+hiagara	1
+owings mills, md, usa	1
+melbourne, fl 32935	1
+worms, germany	1
+passau, germany	1
+hong kong, philippines	1
+detroit, michigan united states	1
+pleasant hill, ca	1
+lilly pond	1
+bologna, emilia romagna, italy	1
+val-david, qc, canada	1
+são carlos, brazil	1
+ubehebe crater, ca	1
+lost in the ether	1
+edgemont	1
+egham, united kingdom	1
+варна, българия	1
+richmond, va, usa	1
+katowice	1
+varberg, sweden	1
+fontainebleau, france	1
+longview, tx	1
+westport, ct, united states	1
+rosedale, md, united states	1
+msd department, 3rd flr. bwd bldg. col. tomacruz st. poblacion , baliwag, bulacan,philippines 3006	1
+corona, ny & temecula, ca	1
+norfolk, va, usa	1
+whittier, ca	1
+clinton, wa, united states	1
+bogor city, west java, indonesia	1
+duesseldorf, germany	1
+philadelphia metropolitan area, usa	1
+bridgend, uk	1
+indianapolis	1
+vila nova de gaia	1
+boca raton, fl, united states	1
+northern ireland	1
+garden city, ny 111530	1
+ma'ale avshalom 98/2, kiryat tiv'on, israel	1
+94306	1
+phoenix	1
+san francisco, california united states	1
+long island, ny	1
+banialuca, bosnia and herzegovina	1
+milwaukee, wisconsin	1
+maribor, slovenia	1
+waco, tx	1
+luxembourg / usa	1
+esfahan, isfahan, iran	1
+brisbane,  australia	1
+den haag	1
+monterey, ca	1
+east africa	1
+karlsruhe, baden-württemberg, germany	1
+la ceiba, departamento de atlántida, honduras	1
+gori, shida kartli, georgia	1
+eastern site brgy. personas calapan city oriental mindoro	1
+madison heights, mi, united states	1
+bregenz, österreich	1
+ashland, ky, united states	1
+mo	1
+white settlement, tx	1
+reno, nevada, united states	1
+київ, місто київ, україна	1
+krasnodar, krasnodar krai, russia	1
+portland or	1
+binangonan, calabarzon, philippines	1
+ipswich, united kingdom	1
+middletown, ct	1
+shushtar	1
+the moon, sylacauga, al, usa	1
+renton, wa, united states	1
+dunedin, otago, new zealand	1
+san jose	1
+piracicaba, state of são paulo, brazil	1
+jena, germany	1
+saharanpur, uttar pradesh, india	1
+guangzhou, guangdong, china	1
+salt lake city	1
+morristown, tn, united states	1
+jersey city, nj, usa	1
+athens, alabama, usa	1
+davao city, davao region, philippines	1
+asti, italy	1
+saskatoon, canada	1
+lakeland	1
+wollongong, australia	1
+tema, greater accra region, ghana	1
+stafford, va, united states	1
+california, u.s.a.	1
+brno, cz	1
+hout bay, cape town, western cape, south africa	1
+düsseldorf, deutschland	1
+leipzig, germany	1
+rexburg, idaho, united states	1
+yamaguchi, japan	1
+hanoi	1
+lilyfield รัฐนิวเซาท์เวลส์ ออสเตรเลีย	1
+pleasanton, ca, usa	1
+great cacapon, wv	1
+fasano, italy	1
+pau, france	1
+babylon	1
+new windsor, ny	1
+pilani, rajasthan, india	1
+belarus, minsk	1
+san mateo, ca, usa	1
+napoli, na, italia	1
+sumy, ukraine	1
+mordor, eastern europe	1
+vinnitsa, винницкая область, украина	1
+reims, france	1
+казахстан	1
+novi, mi	1
+penza, russia	1
+gyaneshwor, kathmandu, central region, nepal	1
+victoria	1
+san marcos, tx	1
+čačak	1
+são carlos - sp, brasil	1
+blue springs, mo	1
+michigan, united states of america	1
+saguenay	1
+mtv	1
+næstved, danmark	1
+mykolaiv, mykolaivs'ka oblast, ukraine	1
+hannover	1
+remote, or, eua	1
+vsetin, czech republic	1
+1999法轮功，2018包子露宪	1
+vail, co, united states	1
+sun valley, los angeles, ca, united states	1
+dodoma, tanzania	1
+montaletto	1
+borås, sweden	1
+stack exchange land	1
+montpelier, vt, usa	1
+lviv.ua	1
+boston ma	1
+salvisa	1
+leeds, moscow	1
+kashan, iran	1
+this i can only guarantee - somewhere i'm not supposed to be.	1
+santo domingo, distrito nacional, república dominicana	1
+moorestown, nj, united states	1
+evanston, il, united states	1
+bkk	1
+bierbeek, belgium	1
+oliva, spain	1
+iowa city, ia, united states	1
+winnipeg, mb	1
+alphaville, brazil	1
+just outside google hq	1
+taloon	1
+estonia, tallinn, tallinna linn	1
+st. pölten, austria	1
+mailly-le-château, france	1
+new market, md, united states	1
+clark county, nv	1
+chơn thành, bình phước, việt nam	1
+badlapur, maharashtra, india	1
+rio de janeiro, brasil	1
+dubuque, ia, usa	1
+new lynn, auckland, new zealand	1
+kebumen, central java, indonesia	1
+istanbul/turkey	1
+5a onwuchekwe avenue, port harcourt, rivers, nigeria	1
+portland, oregon	1
+in your medicine cabinet (earth, dimension c-137)	1
+recife - state of pernambuco, brazil	1
+cuauhtemoc, mexico	1
+republic of kazakhstan	1
+planet earth, mw	1
+basel-city/zurich, switzerland	1
+southeastern us	1
+downtown, toronto, on, canada	1
+springfield, va, united states	1
+greater philadelphia area	1
+wa	1
+waldport, or, usa	1
+lithuania, kaunas	1
+northern virginia, usa	1
+mp, india	1
+duisburg, germany	1
+charenton-le-pont, france	1
+berlin, germany / amsterdam, netherlands	1
+hilversum, nederland	1
+in cave	1
+montreal, quebec	1
+hillsborough, nc	1
+fort wayne, in	1
+bloomfield, nj	1
+anand, gujarat, india	1
+troms, norge	1
+reno, nv, united states	1
+sky	1
+rio de janeiro - state of rio de janeiro, brazil	1
+vancouver, wa	1
+vamberk, czech republic	1
+nowhere, because i don't exist...	1
+delta amacuro, venezuela	1
+kharagpur, india	1
+lisse, netherlands	1
+travelling	1
+dddsdssdsdsdsd	1
+unique pearl iii al naboodah al shoala building, port saeed, deira p o box: 31923 dubai, uae	1
+lewisville, tx, united states	1
+burlington, vt, usa	1
+otukpo, benué state, nigeria	1
+weston, fl, usa	1
+минск, беларусь	1
+christchurch, canterbury, new zealand	1
+sp, brazil	1
+segovia, spain	1
+ประเทศไทย	1
+memphis, tn, usa	1
+allahabad	1
+mānoa, honolulu, hi, united states	1
+us northeeast	1
+cambridge street, cambridge, ma, usa	1
+กรุง	1
+recife, pe, brasil	1
+dhaka,chandpur,shahraste	1
+denver, colorado, united states	1
+* 443,	1
+ternopil, тернопіль, тернопільська область, ukraine	1
+745 main street, fryeburg, me, united states	1
+kotikawatta, sri lanka	1
+dhaka,bangladesh	1
+eu	1
+iit kharagpur, kharagpur, west bengal, india	1
+aurora, il, united states	1
+plovdiv, българия	1
+samara, russia	1
+115, masjid moth road, masjid moth village, south extension ii, new delhi, delhi 110049, india	1
+lokeren, belgium	1
+bowmanville, ontario	1
+lalaland	1
+norfolk, england	1
+george, western cape, south africa	1
+benin	1
+tokyo,japan	1
+south weber, utah, united states	1
+stanford, ca	1
+kishinyov, кишинев, moldova	1
+mallow, ireland	1
+spokane, wa, united states	1
+lynchburg, tn	1
+rusholme	1
+nandi hills, kenya	1
+bodensee	1
+yunnan, china	1
+sintra, portugal	1
+melbourne victoria, australia	1
+subang jaya, selangor, malaysia	1
+maribor panonska ulica 5.b	1
+over his throne	1
+cambridge, massachusetts	1
+chantilly, va	1
+kaduna, nigeria	1
+danang, vietnam	1
+monaco di baviera, germania	1
+palmerston north, new zealand	1
+kent, england, uk	1
+afghanistan	1
+niteroi, brazil	1
+in a pasture with other giant cows	1
+solan	1
+sonoma county, ca	1
+barcelona, barcelona, spain	1
+san ramon, ca, united states	1
+pasig city	1
+apeldoorn west, apeldoorn, nederland	1
+niš, serbia	1
+haifa	1
+pencilveinea	1
+santa cruz, departamento de santa cruz, bolivia	1
+nizza, francia	1
+millcreek	1
+rome, metropolitan city of rome, italy	1
+iran tehran	1
+brno, cze	1
+hk	1
+china (prc)	1
+russia tower, moscow, russia	1
+top secret hiding place	1
+east jakarta, east jakarta city, jakarta, indonesia	1
+nomad, earth	1
+qalaven, livonia	1
+earth, milkiway	1
+αθήνα, ελλάδα	1
+lekki, nigeria	1
+waterloo, belgium	1
+sarıyer, istanbul, turkey	1
+utrecht, nl	1
+asker, norge	1
+frankfurt area, germany	1
+trujillo, la libertad, peru	1
+boca raton, fl	1
+camarillo, ca, usa	1
+norn iron	1
+maracaibo, venezuela	1
+brasília, df	1
+greater manchester, united kingdom	1
+tenerife	1
+manhattan, ks, united states	1
+dushanbe, tajikistan	1
+mladá boleslav, česko	1
+pazardjik, българия	1
+varghese	1
+chennai, south india	1
+los angeles, ca 90041, united states	1
+macedonia (fyrom)	1
+brandenburg, germany	1
+san josé, costa rica	1
+gdańsk, polska	1
+s.i.t.e, karachi, sindh, pakistan	1
+san angeles, california	1
+crystal lake, il	1
+new york city, ny, usa	1
+kanpur, uttar pradesh, india	1
+nulltown	1
+mirpur 10, dhaka, dhaka division, bangladesh	1
+rzeszów, polska	1
+diadema - sp, brasil	1
+cabo san lucas, baja california sur, mexico	1
+bhavnagar, gujarat, india	1
+milano	1
+south dakota, united states	1
+gorna orqhovitza, bulgaria	1
+irapuato, گوآناخوآتو، مکزیک	1
+aigle, switzerland	1
+harlem, ny	1
+belo horizonte, state of minas gerais, brazil	1
+world way, los angeles, ca, usa	1
+montevideo	1
+mostar, bosnia and herzegovina	1
+tenerife, santa cruz de ténérife, espagne	1
+berlin, de	1
+tacoma	1
+(austin) pflugerville, tx, usa	1
+arkham asylum	1
+mülheim an der ruhr, deutschland	1
+antipolo, calabarzon, philippines	1
+middle-earth...eh, europe	1
+in front of a screen	1
+carlsbad, nm	1
+ka-na-da	1
+cybertron	1
+amsterdam, mo	1
+ab, canada	1
+santa catarina, brazil	1
+saint george, ut, united states	1
+long beach, ca	1
+moneygram (inside walmart), kentucky avenue, indianapolis, indiana, birleşik devletler	1
+ocean, nj	1
+landshut, bayern	1
+kummerfeld, deutschland	1
+landgraaf, netherlands	1
+tamale municipal, ghana	1
+independence, mo	1
+37.8199° n, 122.4783° w	1
+amersfoort, the netherlands	1
+russia, saint-petersburg	1
+auburn, nh, united states	1
+tijuana, b.c., méxico	1
+tandil, argentina	1
+siquirres, limón, costa rica	1
+atl	1
+xiamen, china	1
+university college london, uk	1
+veliko tarnovo, bulgaria	1
+murphys, ca, usa	1
+somewhere in portugal	1
+woodinville, wa	1
+odder, denmark	1
+needham, ma, united states	1
+on the server farm	1
+villa lugano, capital federal, argentina	1
+mercer island, wa	1
+san luis obispo county, ca, usa	1
+or, united states	1
+new mexico, united states	1
+neubrandenburg, germany	1
+lalmonirhat sadar upazila, bangladesh	1
+fiji	1
+manhattan, ny, united states	1
+львівська область, україна	1
+viera, rockledge, fl, united states	1
+apple valley, mn	1
+mérida, mexico	1
+mississippi	1
+bucurești, românia	1
+ambridge, pa, usa	1
+livermore, کالیفرنیا، ایالات متحده آمریکا	1
+tetouan, morocco	1
+valencia, carabobo, venezuela	1
+idaho, united states	1
+kobe, hyogo, japan	1
+berlín, alemania	1
+orsk, orenburg oblast, rusland	1
+banglore	1
+nanded	1
+canton, mi	1
+patiala, india	1
+teneriffa, provinz santa cruz de tenerife, spanien	1
+nipomo, ca, usa	1
+belgium / germany	1
+siliguri, west bengal, india	1
+center europe	1
+madagascar	1
+nunya, business	1
+mthatha	1
+wuhan, china	1
+bude, united kingdom	1
+undisclosed internet location (tm)	1
+madurai	1
+victoria, bc	1
+221b baker street, london, united kingdom	1
+iran, mashhad	1
+macquarie park, new south wales, australia	1
+oldham, uk	1
+oklahoma, usa	1
+guelph, on, canada	1
+the world.	1
+magdeburg, saxony-anhalt, germany	1
+richmond hill, ontario	1
+agoura hills, ca	1
+liveville, mc	1
+remote (worldwide)	1
+tabriz, east azerbaijan, iran	1
+central, hong kong	1
+albuquerque, nm, united states	1
+rtp, durham, nc, usa	1
+talin, aragatsotn province, armenia	1
+brittany, france	1
+santa barbara, california, united states	1
+royal holloway, university of london	1
+sc	1
+casablanca, casablanca-settat, maroc	1
+liège, belgique	1
+иваново, ивановская область, россия	1
+greater los angeles	1
+fort bragg, ca, united states	1
+zacatecas centro, zacatecas, zac., méxico	1
+gwalior, india	1
+star city, ar, usa	1
+catalonia	1
+chiang mai provincia di chiang mai tailandia	1
+nantong, china	1
+colorado school of mines, co	1
+denver, colorado	1
+eskişehir, türkiye	1
+logan, ut	1
+colfax, nc, united states	1
+wokingham, united kingdom	1
+gatineau, canada	1
+the space/time continuum	1
+brunswick, lower saxony, germany	1
+richmond, ca, united states	1
+oldenburg, germany	1
+there is no place like 127.0.0.1	1
+nairobi central, nairobi, nairobi county, kenya	1
+florianópolis, sc, brasil	1
+rijswijk, netherlands	1
+provo ut	1
+saclay, francja	1
+cincinnati, ohio	1
+el prat de llobregat, spain	1
+valletta, malta	1
+shangh	1
+kathmadnu	1
+tampa, флорида, сша	1
+indore, india	1
+earth, milky way galaxy (western spiral), laniakea supercluster	1
+az, united states	1
+ilmenau, deutschland	1
+st petersburg, fl	1
+morristown, new jersey, united states	1
+abilene, tx	1
+chandler, az	1
+estonia puiestee, таллин, эстония	1
+owensboro, ky, usa	1
+香港	1
+voisins-le-bretonneux, france	1
+santander, colombia	1
+probably inside a simulation of some kind.	1
+new york, ny, united states; london; paris; bkk; hkg;	1
+lodhrān, punjab, pakistan	1
+newnan, ga	1
+paradise	1
+spb.ru	1
+staten island, ny	1
+são paulo area, brazil	1
+hudson, oh, united states	1
+prison	1
+squamish, canada	1
+shenzhen, 广东省 china	1
+college park, md, united states	1
+norfolk, va, united states	1
+22 hanway street 4, london ,w1t 1uq, uk	1
+karimnagar, telangana, india	1
+springfield, mo, united states	1
+méxico df, cdmx, mexico	1
+lahore cantt., lahore, pakistan	1
+goshen, ct, united states	1
+rahim yar khan, pakistan	1
+shinjuku, jp	1
+internets	1
+uzbekiston, o`zbekiston	1
+trumbull, ct, united states	1
+navsari, gujarat, india	1
+2415 heywood st.	1
+rostov-on-don, russia	1
+queretaro, mexico	1
+weimar, germany	1
+mckinney, tx, united states	1
+thrissur, kerala, india	1
+titograd	1
+santa fe, nm, usa	1
+afyonkarahisar, afyonkarahisar merkez/afyonkarahisar, türkiye	1
+suluova, amasya, turkey	1
+pittsburgh, pa - usa	1
+utrecht, nederland	1
+northern hemisphere, mars	1
+helena, mt	1
+nz	1
+ciudad del este, alto paraná department, paraguay	1
+germany ‧ deutschland	1
+la jolla, san diego, ca, united states	1
+são paulo, são paulo, brasil	1
+in front of my pc	1
+russia, dedovsk	1
+shrewsbury, united kingdom	1
+dalian, liaoning, china	1
+distributed	1
+herceg novi, montenegro	1
+mathura	1
+gauteng, south africa	1
+chesterfield county public schools, chesterfield county, va, united states	1
+hampshire, uk	1
+online~home	1
+https://ekkarat.w@gmail.com	1
+542d tân phước, district 11, ho chi minh city, vietnam	1
+deutsche telekom aktiengesellschaft, friedrich-ebert-allee, bonn, almanya	1
+boyertown, pa, united states	1
+orono, me, united states	1
+14052	1
+tanzania dar es salaam	1
+las swelieh	1
+odorheiu secuiesc, transylvania, romania	1
+semo	1
+centreville, va, united states	1
+sevilla, españa	1
+samastipur	1
+windsor, united kingdom	1
+zephyrhills, fl	1
+independence, oh	1
+st andrews, united kingdom	1
+brighton park, bristol, united kingdom	1
+iran,shiraz	1
+planet earth, solar system, milky way.	1
+orlando, fl, usa	1
+sopelana, spain	1
+goiânia - go, brasil	1
+armaçao de búzios	1
+somerset west, south africa	1
+west bloomfield, mi	1
+kermanshah, iran	1
+ho chi minh city, hồ chí minh, việt nam	1
+tilburg, netherlands	1
+zurich, schweiz	1
+behind the rabbit	1
+{ 9hw9 } ^126, ( 1cc9 ) ^222	1
+eckville, ab, canada	1
+fairfax, va, usa	1
+bordj bou arreridj, algeria	1
+virginia beach, va	1
+duncan, sc, united states	1
+fort collins, co, usa	1
+standing in the forrest near some pine trees.	1
+mahendranagar, far-western region, nepal	1
+hershey, pa, usa	1
+eastbourne, united kingdom	1
+the fiery depths of hell	1
+monte mor - sp, brasil	1
+longyearbyen, svalbard and jan mayen	1
+the uk	1
+continental united states	1
+germany-malaysia	1
+145 wildman avenue stepheyville nelson 7010	1
+омск, россия	1
+wichita, ks, usa	1
+phx	1
+cebu	1
+l'viv, львівська область, україна	1
+coffee, tn	1
+harbin, china	1
+teh internetz	1
+mo i rana, norway	1
+moratuwa, sri lanka	1
+mozambique, moçambique	1
+pocono mountains, pennsylvania, usa	1
+#c-kewn2654	1
+27kotam thanh pho buon ma thuot tinh daklak viet nam	1
+villeurbanne, france	1
+tirana county, albania	1
+west midlands, united kingdom	1
+oneonta, ny, usa	1
+charleston, sc, usa	1
+spb	1
+giv'at shmuel, israel	1
+stamford, ct	1
+punjab, pakistan	1
+northern ireland, uk	1
+dillsburg, pa, united states	1
+exeter, uk	1
+arak, markazi, iran	1
+blockchain	1
+cardiff	1
+qiryat ono, israel	1
+kanpur, india.	1
+kolhapur, maharashtra, india	1
+ℂ, 	1
+brighton, england, united kingdom	1
+syracuse, ny, usa	1
+ canada	1
+ipoh	1
+ganymede, jupiter	1
+south hutchinson, ks, usa	1
+deer valley, phoenix, az, usa	1
+puerto vallarta, mexico	1
+premiá de mar, spain	1
+not the end of the earth, but you can see it from here, lol	1
+seven hills, oh	1
+taipei & hong kong	1
+dayton, oh, usa	1
+shanghai city, china	1
+osijek, croatia	1
+melbourne-, australia	1
+durham, nh, united states	1
+columbia, md	1
+bulgaria / germany	1
+menlough, ireland	1
+orlando, florida	1
+lakeway, tx	1
+portharcourt	1
+brisbane qld, australia	1
+vanuatu	1
+ukraine, kyiv	1
+kardzhali, bulgaria	1
+http://ownbitcoins.net	1
+san mateo, calabarzon, philippines	1
+rolling	1
+nueva ecija, central luzon, philippines	1
+america	1
+gadhinglaj kolhapur	1
+oulu, finland	1
+2648 maxwell avenue, oakland, ca, usa	1
+kortrijk, belgium	1
+cavite, calabarzon, philippines	1
+muskegon, mi, united states	1
+beirut - lebanon	1
+damascus, syria | amman,jordan	1
+khulna, bangladesh	1
+tripoli, tripoli district, libya	1
+mountainview, ca	1
+papamoa, bay of plenty, new zealand	1
+viciebsk, belarus	1
+zürich	1
+central florida	1
+arlington heights, il	1
+中国山东省青岛市	1
+beograd, serbia	1
+harrison, ar	1
+ramanthali, kannur, kerala, india	1
+roland, oklahoma, usa	1
+lodz, poland	1
+paraguaay	1
+bainbridge island, wa	1
+san pablo, ca	1
+new york, nueva york, ee. uu.	1
+damaturu, nigeria	1
+aalborg	1
+reggio emilia	1
+nizhny novgorod, nizhny novgorod oblast, russia	1
+rajahmundry	1
+downtown, los angeles, ca, united states	1
+napa, ca	1
+земля	1
+taguig, metro manila, philippines	1
+belfast, ireland	1
+somewhere place, eureka springs, ar, united states	1
+pohang	1
+ath	1
+white plains st, iligan city, lanao del norte, philippines	1
+beer-sheva, israël	1
+medan, indonesia	1
+cambridge, united states	1
+lugano, switzerland	1
+lavale, md, united states	1
+lansing, ia, usa	1
+caltech	1
+tallahassee, fl, united states	1
+sutton-in-ashfield, united kingdom	1
+new braunfels, tx, united states	1
+houston texas	1
+galiano island, bc, canada	1
+geelong, victoria, australia	1
+kannur, kerala, india	1
+waterford, ireland	1
+kansas city, missouri	1
+kobe-city, japan	1
+girona, spain	1
+malvern, uk	1
+blumenau, brazil	1
+virginia polytechnic institute and state university, va	1
+overland park, ks, united states	1
+dlf cyber city, gurugram, haryana, india	1
+münchen, germany	1
+redwood city, ca, usa	1
+suez governorate, egypt	1
+valparaiso, chile	1
+kraków, pl	1
+recife, brazil.	1
+meureudu, aceh, indonesia	1
+university of science and technology of china, hefei, anhui, china	1
+littleton, co, united states	1
+glyfada, notios tomeas athinon, greece	1
+mindanao, philippines	1
+nashua, nh	1
+williamstown, ontario, canada	1
+new orleans, la	1
+northport, ny	1
+$location = get.coordinates();	1
+nanyuki, laikipia, kenya	1
+cheboksary, россия	1
+the dusty cracks of your computer.	1
+emsland, deutschland	1
+pensacola, fl, usa	1
+kampala	1
+mesa, arizona	1
+phetchaburi thailand	1
+osaka, japan	1
+offenburg, germany	1
+new york, new york, united states	1
+lake forest, ca	1
+seattle, вашингтон, сша	1
+piscataway township, nj, united states	1
+between here and there	1
+stillwater, ok, united states	1
+cancún, q.r., méxico	1
+feral cat colony, usa	1
+somewhere	1
+ventspils, latvia	1
+sisak, hrvatska	1
+bonn, deutschland	1
+ulaanbaatar	1
+кировск, ленинградская область, россия	1
+bhubaneswar, odisha, india	1
+high wycombe, united kingdom	1
+olsztyn, polska	1
+lviv, львівська область, україна	1
+36.727672,-76.302023 +/- 1%	1
+laguna niguel, ca	1
+hannover, deutschland	1
+somewhere, usa	1
+recife - pe, brasil	1
+round rock, tx, united states	1
+burbank	1
+nova scotia, canada	1
+porto alegre, rs, brazil	1
+rio claro, brazil	1
+bandung city, west java, indonesia	1
+indian institute of technology delhi, new delhi, delhi, india	1
+snohomish, wa	1
+texas, us	1
+tampa, florida, united states	1
+new brunswick, nj	1
+nyc/nj	1
+mansoura, dakahlia governorate, egypt	1
+hilliard, oh	1
+melbourne, fl, united states	1
+minecraft road, talaguppa, karnataka, india	1
+baltimore / atlanta	1
+midwestern united states	1
+netherlands antilles	1
+darmstadt, deutschland	1
+129 nerang street, southport, qld 4215	1
+中国广东省zhuhai shi	1
+3203 beulah way se conyers,ga united states	1
+knittlingen, deutschland	1
+mid west	1
+citrus heights, ca	1
+andersonville, chicago, il, united states	1
+pleasant valley, ny	1
+lancaster, pa, united states	1
+gloucester, united kingdom	1
+lilongwe, malawi	1
+hisar, india	1
+arizona, usa	1
+blieskastel, saarland, germany	1
+sf, ca, united states	1
+jakarta selatan, kota jakarta selatan, daerah khusus ibukota jakarta, indonesia	1
+hyderabad - vijayawada	1
+shepparton north, victoria, australia	1
+kosice	1
+usa, east coast	1
+lower saxony, germany	1
+kottayam, india	1
+anchorage alaska	1
+sunderland	1
+lansing, mi, usa	1
+lisbon , portugal	1
+hanoi, hoàn kiếm, hanoi, vietnam	1
+wa, united states	1
+lagoa santa, mg	1
+lily, ky	1
+calgary, alberta, canada	1
+lahti, finland	1
+thailand, makati, ncr, philippines	1
+palm bay, fl, united states	1
+netanya, israel	1
+south of brekkestø, above the crust.	1
+corinth, ms, usa	1
+grand haven, mi	1
+moore, ok	1
+panchkula, haryana, india	1
+uppsala, sverige	1
+oz	1
+kera, india	1
+the cyberport arcade, telegraph bay, hong kong	1
+maleny qld 4552, australia	1
+basingstoke, united kingdom	1
+mansfield qld, australia	1
+6	1
+sofia	1
+https://cryptohackers.com	1
+new york, 纽约州美国	1
+elektrostal	1
+springfield, il, usa	1
+ambala, haryana, india	1
+idar, gujarat, india	1
+kharkov	1
+yaoundé, région du centre, cameroun	1
+dolores, colorado	1
+st joseph, tunapuna-piarco, trinidad and tobago	1
+south carolina, usa	1
+marshall, tx, united states	1
+saitama	1
+spokane, wa, usa	1
+guangdong, china	1
+aventura, florida, usa	1
+xiangtan, hunan, china	1
+asheville, nc, usa	1
+belmont, ca	1
+emeryville, ca, united states	1
+pedro osorio, brazil	1
+westchester, ny	1
+ukraina, киев, украина	1
+madhepura	1
+br	1
+dehdasht	1
+juneau, ak, united states	1
+bardoli	1
+melrose park, il, usa	1
+makati, metro manila, philippines	1
+bolivia, ла-пас, боливия	1
+λ	1
+kitchener, on	1
+des moines, ia, united states	1
+russia, kirov region, kirov city	1
+gafgadfgg	1
+ghaziabad, india	1
+ferrara, italy	1
+portsmouth, nh	1
+∞	1
+kent, england	1
+kuala lumpur malaysia	1
+nanaimo, bc, canada	1
+herzogenrath, germany	1
+tokyo, 日本	1
+kraków	1
+hobart tas, australia	1
+seligenstadt, germany	1
+brenham, tx	1
+ensenada, b.c., méxico	1
+shenyang, liaoning, china	1
+bbsr	1
+lombard, il	1
+cluj-napoca	1
+chandler, az, usa	1
+medan, medan city, north sumatra, indonesia	1
+north potomac, md	1
+el segundo, ca	1
+culver city, ca, usa	1
+highland park, ca	1
+san diego, california, estados unidos	1
+far away from you…	1
+zambia	1
+germany, uelzen	1
+kyiv city, місто київ, україна	1
+poortugaal, netherlands	1
+tucson, az, usa	1
+sp	1
+san jose ca	1
+сургут	1
+near the 45th parallel	1
+frýdek, frýdek-místek, česko	1
+langkawi kedah malaysia	1
+sofia center, sofia, bulgaria	1
+yonkers, ny	1
+treviso, tv, italia	1
+hk6 bế văn đàn, phường 14, 新平胡志明区越南	1
+αθήνα, greece	1
+ryazan, russia	1
+the land down under	1
+hwaseong-si, gyeonggi-do, south korea	1
+virudhunagar, tamil nadu, india	1
+ohio 44133	1
+bangalore,india	1
+stockholm, stockholm sweden	1
+hi, united states	1
+princeton, nj, usa	1
+catalunya	1
+dallas, texas, united states	1
+gladwyne, pa, united states	1
+lakewood, wa, united states	1
+amsterdam, north holland, netherlands	1
+piracicaba - sp, brasil	1
+софия, bulgaria	1
+holland, michigan	1
+riyadh	1
+usaa boulevard, san antonio, tx, usa	1
+bethel, oh	1
+ga, united states	1
+guadalajara, jalisco, mexico	1
+the ministry of silly walks	1
+jundiaí - state of são paulo, brazil	1
+somerset, united kingdom	1
+köln, germany	1
+clementi singapore	1
+elmhurst, il, united states	1
+sankt-peterburg, санкт-петербург, россия	1
+rio saliceto, italy	1
+reggio nell'emilia, italy	1
+centurion, south africa	1
+norman, ok, united states	1
+中国浙江省hangzhou shi	1
+santo andré - state of são paulo, brazil	1
+alabama, usa	1
+ponta delgada, portugal	1
+cairo, cairo governorate, egypt	1
+severodvinsk, russia	1
+tangail, bangladesh	1
+south east england, united kingdom	1
+лиски, воронежская область, россия	1
+greater perthshire, scotland	1
+home, ks	1
+pegau, deutschland	1
+alabama avenue southeast, washington, dc, usa	1
+hồ chí minh city, viet nam	1
+se	1
+amarillo, เทกซัส สหรัฐอเมริกา	1
+taipei, taiwan.	1
+stirling, united kingdom	1
+uk and japan	1
+umeå, sverige	1
+aceh, indonesia	1
+foster city, ca	1
+patong, อำเภอ กะทู้ ภูเก็ต ประเทศไทย	1
+jessore khulna road, jessore, bangladesh	1
+void	1
+rupes toscanelli	1
+on air	1
+southern california, united states, earth	1
+vasco da gama, goa, india	1
+richmond, virginia, usa	1
+sf east bay area	1
+broomfield, co	1
+brno	1
+saïda, wilaya de saïda, algérie	1
+albstadt, deutschland	1
+tyler, texas, usa	1
+tampa fl	1
+goiânia, goiás, brazil	1
+toruń, polska	1
+izhevsk, russia	1
+swindon, uk	1
+ludwigsburg, germany	1
+the future	1
+la, california, united states	1
+springfield, mo	1
+saint petersburg, россия	1
+neverland	1
+marietta, ga	1
+kuopio, finland	1
+the computer screen	1
+willoughby, oh	1
+circumgyrating dss j010013.02+280225.8	1
+el salvador / canada	1
+new york metropolitan area, usa	1
+cours, cours-la-ville, france	1
+中国广东省深圳市	1
+colombian living in san jose, costa rica, skype:schwertfische	1
+monza, mb, italia	1
+trichy, tamil nadu, india	1
+beer-sheva, israel	1
+aïn oulmene, wilaya de sétif, algérie	1
+sunshine coast, queensland	1
+arlington, tx, usa	1
+mainz, germany	1
+burundi	1
+front royal, va, united states	1
+warsaw, polska	1
+pasadena, md 21122, united states	1
+siberian federal district, russia	1
+bothell, wa	1
+yangon, yangon region, myanmar (burma)	1
+landers, ca	1
+suriname	1
+nashik, maharashtra, india	1
+lower 48	1
+fafe, portugal	1
+banana republic, haishu, ningbo, zhejiang, china	1
+banbury, united kingdom	1
+gulu, northern, uganda	1
+new york, egyesült államok	1
+u.s	1
+the neverending void	1
+jhb, south africa	1
+cancún, quintana roo, mexico	1
+paris - station f	1
+bletchley, united kingdom	1
+tshwane, south africa	1
+pacifica, ca, united states	1
+wasilla, ak, usa	1
+c137	1
+tielt	1
+wageningen, netherlands	1
+ogdensburg, ny	1
+kadıköy/istanbul, turkey	1
+kathmandu, 네팔	1
+providence, ri, usa	1
+bolesławiec, polska	1
+kayamkulam, kerala, india	1
+limbo	1
+ρότερνταμ, ολλανδία	1
+nevada, usa	1
+tando-jan mahomed, pakistan	1
+mirpur-12 bus stand, dhaka, dhaka division, bangladesh	1
+st andrews	1
+linkoping, sweden	1
+new bogota	1
+karachi pakistan	1
+spring hill, ks	1
+petaling jaya selangor malaysia	1
+schenectady, ny	1
+virtually everywhere	1
+burhanpur	1
+bajaur, pakistan	1
+lahore , pakistan	1
+mi, usa	1
+méxico city	1
+cebu, central visayas, philippines	1
+brazil, brasília-df	1
+brooklyn, ny and/or maui, hi	1
+i̇stanbul	1
+odense c, odense, danmark	1
+jatra bari, dhaka, bangladesh	1
+mississauga, ontario	1
+viladecans, barcelona, españa	1
+somewhere decentralized	1
+charlotte, north carolina	1
+stackoverflow.com@askmarcos.com	1
+indianapolis, in, usa	1
+nevada city, ca, united states	1
+kailua-kona, hi, united states	1
+sweden / switzerland	1
+neuss, germany	1
+kansas, usa	1
